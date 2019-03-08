@@ -11,8 +11,10 @@ Installation of extension is the easiest part! So, just click on the your browse
 {% tabs %}
 {% tab title="Firefox" %}
 {% hint style="info" %}
-Firefox removed our Extension from the addon store. We uploaded it to our own servers and could revive it from the dead. You have to download our addon manually or use another browser!
+Firefox removed our Extension from the addon store. Don't worry we will try to revive it from the dead as we plan to upload it to our own servers in the next update! For now you can either wait or follow the instructions below.
 {% endhint %}
+
+
 
 1. Go to the [releases tab](https://github.com/PreMiD/PreMiD/releases)
 2. Download [premid-1.3.1.2-fx.xpi](https://github.com/PreMiD/PreMiD/releases)

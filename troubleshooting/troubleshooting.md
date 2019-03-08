@@ -74,7 +74,7 @@ Go to `YOURDISK:/users/USER/~Library/Application Support` and delete folder `Pre
 Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.  
 Or visit the [wiki](../) for more detailed steps.
 
-## That doesn't solved my problem
+## That hasn't solved my problem
 
 You can either:
 

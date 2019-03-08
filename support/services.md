@@ -12,7 +12,7 @@ Want to request a support for other services? Open an [Issue](https://github.com
 | Rabb.it |  |  |
 
 {% hint style="info" %}
-More availabe on our soon releasing presence store for free!
+More available on our soon releasing presence store for free!
 {% endhint %}
 
 

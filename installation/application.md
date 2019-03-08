@@ -6,7 +6,7 @@
 
 ### Application
 
-Installing the application is very important since the extensions can not do anything by itself and need this application to activate rich presence on your profile! So, just follow these steps and install it.
+Installing the application is very important since the extension can't do anything on its own and needs the application to activate rich presence on your profile! So, just follow these steps and install it.
 
 {% tabs %}
 {% tab title="Windows" %}
