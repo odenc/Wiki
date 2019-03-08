@@ -1,4 +1,4 @@
 # Languages
 
 * [English](en/)
-* [Gernan](de/)
+* [German](de/)
