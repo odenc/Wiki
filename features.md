@@ -1,0 +1,14 @@
+# Features
+
+## About
+
+**PreMiD** is a simple, configurable utility that allows you to show what you're watching/listening in your Discord **now playing status**. It supports [many different platforms](https://github.com/PreMiD/PreMiD#support), and will support multiple users watching the same content simultaneously in an upcoming update.
+
+## Features
+
+* Integrates with Discord's official Rich Presence API library.
+* Supports your keyboard's **Media Control** function keys.
+* Automatically clears your current presence after 1 minute of inactivity.
+* Supports **YouTube, YouTube Music, Netflix, SoundCloud** and many more to come.
+* _Watch parties and more are coming soon!_
+
