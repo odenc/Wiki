@@ -18,7 +18,7 @@ When it finishes downloading, open the file. Windows SmartScreen will probably g
 
 ![SmartScreen warning](https://camo.githubusercontent.com/686b1d78d5232ed8a13cfd484ef59bccc83a2e02/68747470733a2f2f626c6f627363646e2e676974626f6f6b2e636f6d2f76302f622f676974626f6f6b2d32383432372e61707073706f742e636f6d2f6f2f6173736574732532462d4c4e4c736b56596d346a5670684d44597474502532462d4c576c4d6b586f626b504b34517344414733622532462d4c576c576d5179764f6e523138704246564e71253246323031392d30312d32315f32302d34382d31342e706e673f616c743d6d6564696126746f6b656e3d34313331353933322d383733392d346539662d393835642d663364633066383836386361)
 
-The app will automatically install itself, you just have to wait until you it's finished. When it's done, it'll be started automatically, you don't have to do anything.
+The app will automatically install itself, you just have to wait until it's finished. When it's done, it'll be started automatically, you don't have to do anything.
 
 ![SmartScreen warning](https://camo.githubusercontent.com/abe646c205b9fef9f6dd07409d2bccc2fe985828/68747470733a2f2f7468652d706572736f6e2d756e6465722d746869732d6d6573736167652e69732d696e736964652e6d652f4e68486a353349642e706e67)
 
