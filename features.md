@@ -12,5 +12,5 @@ PreMiD هي أداة بسيطة وقابلة للتغيير تسمح لك بإظ
 * Supports **YouTube, YouTube Music, Netflix, SoundCloud** and many more to come.
 * _Watch parties and more are coming soon!_
 
-{% page-ref page="about/whats-premid/" %}
+{% page-ref page="mqdmh/whats-premid/" %}
 

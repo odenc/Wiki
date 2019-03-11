@@ -8,7 +8,7 @@
 
 ### How to install
 
-*  Look up the updated instructions [here](installation/extension.md)
+*  Look up the updated instructions [here](altthbyt/extension.md)
 
 ## 1.2 · 2-November-2018
 

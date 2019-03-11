@@ -3,16 +3,16 @@
 ## جدول المحتويات
 
 * مقدمة
-  * [ما هو الRPC؟](about/whats-rpc.md)
-  * [ما هو PreMiD؟](about/whats-premid/)
-    * [أمثلة](about/whats-premid/example-pictures.md)
+  * [ما هو الRPC؟](mqdmh/whats-rpc.md)
+  * [ما هو PreMiD؟](mqdmh/whats-premid/)
+    * [أمثلة](mqdmh/whats-premid/example-pictures.md)
 * التثبيت
-  * [إضافة المتصفح](installation/extension.md)
-  * [التطبيق](installation/application.md)
-* [المساهمة](contributing/contributing.md)
-* [إصلاح الأخطاء الشائعة](troubleshooting/troubleshooting.md)
+  * [إضافة المتصفح](altthbyt/extension.md)
+  * [التطبيق](altthbyt/application.md)
+* [المساهمة](almsahmh/contributing.md)
+* [إصلاح الأخطاء الشائعة](islah-alakhtaa-alshaeah/troubleshooting.md)
 * الدعم
-  * [أنظمة التشغيل](support/operating-systems/)
-    * [متصفحات أخرى](support/operating-systems/additional-browsers.md)
-  * [خدمات](support/services.md)
+  * [أنظمة التشغيل](aldam/operating-systems/)
+    * [متصفحات أخرى](aldam/operating-systems/additional-browsers.md)
+  * [خدمات](aldam/services.md)
 

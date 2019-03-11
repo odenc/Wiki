@@ -6,26 +6,26 @@
 
 ## مقدمة
 
-* [RPCما هو الـ](about/whats-rpc.md)
-* [PreMiD ما هو](about/whats-premid/README.md)
-  * [أمثلة](about/whats-premid/example-pictures.md)
+* [RPCما هو الـ](mqdmh/whats-rpc.md)
+* [PreMiD ما هو](mqdmh/whats-premid/README.md)
+  * [أمثلة](mqdmh/whats-premid/example-pictures.md)
 
 ## التثبيت
 
-* [إضافة المتصفح](installation/extension.md)
-* [التطبيق](installation/application.md)
+* [إضافة المتصفح](altthbyt/extension.md)
+* [التطبيق](altthbyt/application.md)
 
 ## المساهمة
 
-* [المساهمة](contributing/contributing.md)
+* [المساهمة](almsahmh/contributing.md)
 
 ## إصلاح الأخطاء الشائعة
 
-* [إصلاح الأخطاء الشائعة](troubleshooting/troubleshooting.md)
+* [إصلاح الأخطاء الشائعة](islah-alakhtaa-alshaeah/troubleshooting.md)
 
 ## الدعم
 
-* [أنظمة التشغيل](support/operating-systems/README.md)
-  * [متصفحات أخرى](support/operating-systems/additional-browsers.md)
-* [خدمات](support/services.md)
+* [أنظمة التشغيل](aldam/operating-systems/README.md)
+  * [متصفحات أخرى](aldam/operating-systems/additional-browsers.md)
+* [خدمات](aldam/services.md)
 
