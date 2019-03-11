@@ -3,16 +3,16 @@
 ## Table des matières
 
 * À propos
-  * [What's RPC?](about/whats-rpc.md)
-  * [What's PreMiD?](about/whats-premid/)
-    * [Example pictures](about/whats-premid/example-pictures.md)
+  * [Qu'est-ce que RPC?](about/whats-rpc.md)
+  * [Qu'est-ce que PreMiD?](about/whats-premid/)
+    * [Image d'exemple](about/whats-premid/example-pictures.md)
 * Installation
   * [Extension](installation/extension.md)
   * [Application](installation/application.md)
-* [Contributing](contributing/contributing.md)
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+* [Contribuer](contributing/contributing.md)
+* [Résolution de problèmes](troubleshooting/troubleshooting.md)
 * Support
-  * [Operating systems](support/operating-systems/)
-    * [Additional Browsers](support/operating-systems/additional-browsers.md)
+  * [Systèmes d'exploitation](support/operating-systems/)
+    * [Browsers additionels](support/operating-systems/additional-browsers.md)
   * [Services](support/services.md)
 
