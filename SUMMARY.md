@@ -19,7 +19,7 @@
 
 * [Contribuindo](contributing/contributing.md)
 
-## Troubleshooting
+## Solução de problemas
 
 * [Solução de problemas](troubleshooting/troubleshooting.md)
 
