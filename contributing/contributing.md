@@ -26,8 +26,7 @@ Você saber mexer muito bem com Photoshop ou programas similares? Provavelmente 
 ### Contribua como um contributor
 
 Agora é sua chance de ser parte do [PreMiD](https://premid.app/)! Você pode adicionar suas proprias presenças ou até programar algumas outras coisas.  
-Só programe alguma coisa e abra uma pull request no [GitHub](https://github.com/PreMiD/PreMiD).  
-Clique [aqui ](https://github.com/PreMiD/PreMiD/blob/stable/CONTRIBUTING.md)para ver nossas diretrizes de contribuições. \(em inglês\)
+Só programe alguma coisa e abra uma pull request no [GitHub](https://github.com/PreMiD/PreMiD).
 
 ### Contribua como um moderador
 
