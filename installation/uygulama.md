@@ -30,24 +30,24 @@ Sonunda, eğer her şeyi düzgün yüklediyseniz, [desteklenen servislerden](../
 {% endtab %}
 
 {% tab title="Mac OS" %}
-1. Download the latest version of the [application](https://github.com/Timeraa/YT-Presence/releases/latest)
-2. Open the downloaded **.dmg** file
-3. Drag **PreMiD** Into your **Applications** Folder
-4. Open your Launchpad or press F4
-5. Open **PreMiD**
-6. Press **"Allow"** if a window pops up
-7. Install the [extension](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) if you haven't already
+1. [Uygulamanın](https://github.com/Timeraa/YT-Presence/releases/latest) son sürümünü indirin.
+2. İndirilen `.dmg` dosyasını açın.
+3. **PreMiD**'i **Uygulamalar** dosyanıza taşıyın.
+4. Launchpad'inizi açın veya F4'e basın.
+5. **PreMiD**'i açın.
+6. Eğer bir izin penceresi açılırsa "**İzin Ver**"e basın.
+7. Eğer hala [eklentiyi](eklenti.md) yüklemediyseniz, yükleyin.
 {% endtab %}
 
 {% tab title="Linux" %}
 {% hint style="info" %}
-Wenn du über die GNU/Linux-Unterstützung reden möchtest, besuche: [https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
+Eğer GNU/Linux desteği istiyorsanız, aşağıdaki [bu](https://github.com/Timeraa/PreMiD/issues/21) bildiriyi destekleyin.
 {% endhint %}
 
-1. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
-2. Change the working directory: `cd PreMiD/src`
-3. Install dependencies and the application itself: `npm install`
-4. Now you can start the application: `npm start`
+1. GitHub deposunu klonlayın: `git clone https://github.com/Timeraa/PreMiD.git`
+2. Kaynağın içine girin: `cd PreMiD/src`
+3. "npm"yi kullanarak yüklemeyi başlatın: `npm install`
+4. Uygulamayı başlatın: `npm start`
 {% endtab %}
 {% endtabs %}
 
