@@ -1,12 +1,12 @@
 # Qu'est-ce que PreMiD ?
 
-#### What is PreMiD?
+#### Qu'est-ce que PreMiD ?
 
-**PreMiD** is a simple, configurable utility that allows you to show what you're watching/listening in your Discord **now playing** status. It supports [many different platforms](https://github.com/PreMiD/PreMiD/wiki/Support#services), and will support multiple users watching the same content simultaneously in an upcoming update. You can also get more information about RPCs and how they work, just scroll a little down.
+**PreMiD** est un utilitaire simple et configurable qui vous permet d'afficher ce que vous regardez/écoutez sur votre **statut** Discord. Il prend en charge de [nombreuses plateformes différentes](../../support/services.md) et permettra à plusieurs utilisateurs de regarder le même contenu simultanément lors d'une prochaine mise à jour. Vous pouvez également obtenir plus d'informations sur les RPCs et leur fonctionnement ci-dessous.
 
-#### How does PreMiD work?
+#### Comment est-ce que PreMiD fonctionne ?
 
-Once you installed both extension and the app, they are always contacting with each other and are in touch at any time. For example, when you start watching/listening something on YouTube, YouTube Music, Netflix or other [supported services](https://github.com/PreMiD/PreMiD/wiki/Support#services), the browser extension sends the information of video/song to the PreMiD Desktop client and PreMiD processes it, after that PreMiD sends the information with the correct way to Discord and Discord automatically sets your status. Well, all of these happens in 0.1 second so you don't have to worry about it.
+Une fois que vous avez installé l'extension et l'application, ils restent en contact l'un avec l'autre à tout moment. Par exemple, lorsque vous commencez à regarder/écouter quelque chose sur YouTube, YouTube Music, Netflix ou [d'autres services supportés](../../support/services.md), l'extension du navigateur envoie les informations de la vidéo/chanson au client PreMiD Desktop et PreMiD les traite, après quoi PreMiD envoie les informations à Discord et Discord définit automatiquement votre statut. Tout cela se produit en un dixième de seconde donc vous n'avez pas à vous en soucier.
 
 {% page-ref page="../../features.md" %}
 
