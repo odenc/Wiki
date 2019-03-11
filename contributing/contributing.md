@@ -34,7 +34,7 @@ Clique [aqui ](https://github.com/PreMiD/PreMiD/blob/stable/CONTRIBUTING.md)para
 As aplicações estão atualmente encerradas mas estamos procurando por mais se conseguimos mais usuários.  
 Ultima data que aceitamos moderadores na nossa equipe: 24/12/2018
 
-### ~~Contribute as a administrator~~
+### ~~Contributa como um administrator~~
 
 _Você não pode_
 
