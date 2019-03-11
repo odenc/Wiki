@@ -8,7 +8,7 @@
 
 ### How to install
 
-*  Look up the updated instructions [here](installation/eklenti.md)
+*  Look up the updated instructions [here](yukleme/eklenti.md)
 
 ## 1.2 · 2-November-2018
 

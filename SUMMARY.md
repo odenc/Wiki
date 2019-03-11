@@ -6,14 +6,14 @@
 
 ## Hakkında
 
-* [RPC Nedir?](about/rpc-nedir.md)
-* [PreMiD Nedir?](about/premid-nedir/README.md)
-  * [Örnek Resimler](about/premid-nedir/ornek-resimler.md)
+* [RPC Nedir?](hakkinda/rpc-nedir.md)
+* [PreMiD Nedir?](hakkinda/premid-nedir/README.md)
+  * [Örnek Resimler](hakkinda/premid-nedir/ornek-resimler.md)
 
 ## Yükleme
 
-* [Eklenti](installation/eklenti.md)
-* [Uygulama](installation/uygulama.md)
+* [Eklenti](yukleme/eklenti.md)
+* [Uygulama](yukleme/uygulama.md)
 
 ## Katkıda Bulunma
 

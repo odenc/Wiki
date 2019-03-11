@@ -10,12 +10,12 @@ description: >-
 ## İçerik Tablosu
 
 * Bilgilendirme
-  * [RPC nedir?](about/rpc-nedir.md)
-  * [PreMiD nedir?](about/premid-nedir/)
-    * [Örnek ekran görüntüleri](about/premid-nedir/ornek-resimler.md)
+  * [RPC nedir?](hakkinda/rpc-nedir.md)
+  * [PreMiD nedir?](hakkinda/premid-nedir/)
+    * [Örnek ekran görüntüleri](hakkinda/premid-nedir/ornek-resimler.md)
 * Yükleme
-  * [Eklenti](installation/eklenti.md)
-  * [Uygulama](installation/uygulama.md)
+  * [Eklenti](yukleme/eklenti.md)
+  * [Uygulama](yukleme/uygulama.md)
 * [Katkıda bulunma](katkida-bulunma/katkida-bulunma.md)
 * [Hata giderme](hata-giderme/hata-giderme.md)
 * Destek

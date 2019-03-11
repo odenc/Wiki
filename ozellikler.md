@@ -16,5 +16,5 @@ description: Bu sayfa ile PreMiD uygulamasının özelliklerini görebilirsiniz.
 * **YouTube**, **YouTube Music**, **Netflix**, **SoundCloud** ve bir çok farklı platformu desteklemektedir.
 * _Yakın zamanda arkadaşlarınızla birlikte izleyebileceksiniz!_
 
-{% page-ref page="about/premid-nedir/" %}
+{% page-ref page="hakkinda/premid-nedir/" %}
 

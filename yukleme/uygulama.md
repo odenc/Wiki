@@ -7,6 +7,7 @@ description: >-
 # Uygulama
 
 {% hint style="warning" %}
+  
 PreMiD'in çalışması için eklentiyi ve programı yüklemeniz gerekmektedir!
 {% endhint %}
 

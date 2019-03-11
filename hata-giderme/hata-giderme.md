@@ -5,7 +5,7 @@ description: Bu sayfa ile PreMiD uygulamasında yaşadığınız sıkıntıları
 # Hata Giderme
 
 {% hint style="warning" %}
-**Her şeyden önce!** PreMiD'in çalışması için [eklentinin](../installation/eklenti.md) ve [uygulamanın](../installation/uygulama.md) yüklü olduğundan emin olun.
+**Her şeyden önce!** PreMiD'in çalışması için [eklentinin](../yukleme/eklenti.md) ve [uygulamanın](../yukleme/uygulama.md) yüklü olduğundan emin olun.
 {% endhint %}
 
 ### Discord aktiviteyi göstermiyor!?
@@ -28,7 +28,7 @@ description: Bu sayfa ile PreMiD uygulamasında yaşadığınız sıkıntıları
 
 * Discord'u yeniden başlatın: **Strg+R** ya da **CMD+R** kombinasyonlarını kullanarak veya manuel olarak yeniden başlatın.
 * Bilgisayarınızı yeniden başlatın. Sanırım nasıl başlatıldığını biliyorsunuzdur :^\)
-* PreMiD'i yeniden başlatın: Bazen PreMiD, eksik veya hatalı yüklenebilir. Yeniden yüklemek bunu çözebilir. Yükleme adımlarına [buradan](../installation/eklenti.md) ve [buradan](../installation/uygulama.md) ulaşabilirsiniz.
+* PreMiD'i yeniden başlatın: Bazen PreMiD, eksik veya hatalı yüklenebilir. Yeniden yüklemek bunu çözebilir. Yükleme adımlarına [buradan](../yukleme/eklenti.md) ve [buradan](../yukleme/uygulama.md) ulaşabilirsiniz.
 * El ile silme. Eğer başaramazsanız [Discord sunucumuzdan](https://discord.premid.app/) bir yetkiliyi etiketleyebilirsiniz.
 
 {% tabs %}

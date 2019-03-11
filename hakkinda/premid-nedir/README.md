@@ -6,7 +6,7 @@ description: >-
 
 # PreMiD Nedir?
 
-#### PreMiD nedir?
+####  PreMiD nedir?
 
 {% page-ref page="../../ozellikler.md" %}
 
