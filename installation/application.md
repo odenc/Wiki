@@ -22,7 +22,7 @@ Das Programm wird sich nun automatisch selbst installieren. Jetzt musst du nur n
 
 ![SmartScreen warning](https://camo.githubusercontent.com/abe646c205b9fef9f6dd07409d2bccc2fe985828/68747470733a2f2f7468652d706572736f6e2d756e6465722d746869732d6d6573736167652e69732d696e736964652e6d652f4e68486a353349642e706e67)
 
-Finally, if you've installed everything correct, you can start using PreMiD, just visit YouTube or other services and start watching/listening something!
+Letztendlich, wenn du alles richtig gemacht hast, kannst du starten PreMiD zu nutzen, besuche einfach YouTube oder andere Services und starte etwas zu schauen/hören!
 {% endtab %}
 
 {% tab title="Mac OS" %}
