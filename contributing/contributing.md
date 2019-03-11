@@ -26,8 +26,7 @@ You are well known with Photoshop or similar programs? Maybe you are talent we a
 ### Contribute as a contributor
 
 Now it's your chance to be a part of [PreMiD](https://premid.app/)! You can add your own presences or even code other things.  
-Just code something and open a pull request on [GitHub](https://github.com/PreMiD/PreMiD).  
-Click [here](https://github.com/PreMiD/PreMiD/blob/stable/CONTRIBUTING.md) to see our contributing guidelines.
+Just code something and open a pull request on [GitHub](https://github.com/PreMiD/PreMiD).
 
 ### Contribute as a moderator
 
