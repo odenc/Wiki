@@ -1,4 +1,4 @@
-# Additional Browsers
+# Определенные браузеры
 
 | Operating System | Opera | Chromium-based |
 | :---: | :---: | :---: |

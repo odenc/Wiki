@@ -1,4 +1,4 @@
-# Contributing
+# Внесение вклада
 
 ### Contribute as a user
 

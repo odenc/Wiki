@@ -1,4 +1,4 @@
-# Troubleshooting
+# Как сообщить о проблеме
 
 ## **First of all**
 

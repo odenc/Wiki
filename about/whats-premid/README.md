@@ -1,4 +1,4 @@
-# What's PreMiD?
+# Что такое PreMiD?
 
 #### What is PreMiD?
 
