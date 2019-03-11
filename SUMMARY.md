@@ -10,16 +10,16 @@
 * [What's PreMiD?](about/whats-premid/README.md)
   * [Example pictures](about/whats-premid/example-pictures.md)
 
-## Installation
+## Установка
 
 * [Extension](installation/extension.md)
 * [Application](installation/application.md)
 
-## Contributing
+## Внесение вклада
 
 * [Contributing](contributing/contributing.md)
 
-## Troubleshooting
+## Помощь с проблемами
 
 * [Troubleshooting](troubleshooting/troubleshooting.md)
 
