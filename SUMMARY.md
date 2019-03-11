@@ -8,7 +8,7 @@
 
 * [Qu'est-ce que RPC ?](about/whats-rpc.md)
 * [Qu'est-ce que PreMiD ?](about/whats-premid/README.md)
-  * [Example pictures](about/whats-premid/example-pictures.md)
+  * [Images d'exemple](about/whats-premid/example-pictures.md)
 
 ## Installation
 
