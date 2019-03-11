@@ -2,63 +2,63 @@
 
 ## **Als erstes**
 
-Make sure you have the [extension](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) **and** the [application](https://github.com/PreMiD/PreMiD/wiki/Installation#application) installed! Tutorials for installation can be found [here](https://github.com/PreMiD/PreMiD/wiki/Installation).  
-You can also try different steps. You don't have to try these in the order we put them here.
+Sei dir sicher, dass du die [Erweiterung](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) **und** das [Programm](https://github.com/PreMiD/PreMiD/wiki/Installation#application) installiert hast! Installationstutorials können [hier](https://github.com/PreMiD/PreMiD/wiki/Installation) gefunden werden.  
+Du kannst die Schritte auch in einer anderen Reihenfolge ausprobieren.
 
-## Discord won't show the presence
+## Discord zeigt die Präsenz nicht an
 
-### Be sure Discord is running NOT as administrator
+### Sei dir sicher, dass Discord NICHT als Administrator ausgeführt wird
 
-Really important. Discord RPC won't work if you run Discord as an administrator.
+Wirklich wichtig. Discord RPC wird nicht funktionieren, wenn du Discord als Administrator ausführst.
 
-### Make sure you've installed the latest version of PreMiD
+### Stelle sicher, dass du die neueste Version von PreMiD hast
 
-You can check that by right-clicking on **'Check for updates'** the PreMiD icon in your taskbar.  
-Otherwise the app will let you know when a new update is available.  
-And you do not have to worry about the extension because it updates itself automatically.
+Du kannst das prüfen, idem du auf **'Auf Updates überprüfen'** auf dem Premid-Symbol in deiner Taskbar klickst.  
+Andernfalls wird dich das Programm benachrichtigen, wenn ein Update verfügbar ist.  
+Und mach dir keine Sorgen um die Erweiterung - Die aktualisiert sich automatisch.
 
 {% hint style="info" %}
-Dev versions and self-injected versions won't update automatically
+Dev-Versionen und self-injected Versionen werden nicht automatisch aktualisiert.
 {% endhint %}
 
 ![Windows Taskbar](https://github.com/PreMiD/PreMiD/raw/master/wiki/assets/CheckForUpdates.png)
 
-### Make sure that you've enabled Discord Rich Presence in settings
+### Stelle sicher, dass du Discord RPC in den Einstellungen aktiviert hast
 
 ![Discord Game Activity](https://github.com/PreMiD/PreMiD/raw/master/wiki/assets/GameActivity.png)
 
-### Reload the page
+### Lase die Seite neu
 
-You can press **Strg+R**/**F5** or **CMD+R** on your keyboard too instead of searching for the refresh button.
+Du kannst auch **Strg+R**/**F5** oder **CMD+R** auf deiner Tastatur drücken, befor du nach dem "Neu Laden"-Button suchst.
 
-### Restart your browser
+### Starte dein Browser neu
 
-**Alt+F4** does a good job too. \(You have to start your browser again obviously\)
+**Alt+F4** macht auch seinen Job. \(Du musst offensichtlich danach deinen Browser neustarten\)
 
-### Disable your addons
+### Deaktiviere deine Add-Ons
 
-Disable all your addons and see if it works again.  
-If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+Deaktiviere alle deine Add-Ons und schaue, ob es wieder funktioniert.  
+Wenn ja, versuche deine Add-Ons nach und nach zu deaktivieren und erzähle uns welches Add-On PreMiD unfunktionell gemacht hat.
 
-### Restart PreMiD \(App\)
+### PreMiD neustarten \(App\)
 
 ![Windows Taskbar](https://github.com/PreMiD/PreMiD/raw/master/wiki/assets/Quit.png)
 
-You have to restart PreMiD afterthought.
+du musst danach PreMiD neu starten.
 
-### Reload/restart Discord
+### Discord neuladen/neustarten 
 
 Press **Strg+R** or **CMD+R** on you keyboard or restart Discord manually.
 
-### Restarting your computer
+### Deinen Computer neustarten
 
-I hope you know how to restart a computer
+Ich hoffe du weißt, wie man einen Computer neustartet.
 
-### Reinstalling PreMiD
+### PreMiD neuinstallieren
 
-Sometimes there's something wrong with the files... Tutorials for installation can be found [here](https://github.com/PreMiD/PreMiD/wiki/Installation).
+Manchmal ist etwas mit den Dateien schiefgelaufen... Installationstutorials können [hier](https://github.com/PreMiD/PreMiD/wiki/Installation) gefunden werden.
 
-### Manual removal
+### Manuelle Entfernung
 
 {% tabs %}
 {% tab title="Windows" %}
@@ -71,16 +71,15 @@ Go to `YOURDISK:/users/USER/~Library/Application Support` and delete folder `Pre
 {% endtab %}
 {% endtabs %}
 
-Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.  
-Or visit the [wiki](../) for more detailed steps.
+Makiere ein Teammitglied auf unserem [Discord-Server](https://discord.gg/WvfVZ8T), wenn keine dieser Schritte geholfen haben.
 
-## That hasn't solved my problem
+## Das hat mein Problem nicht gelöst
 
-You can either:
+Du kannst:
 
-* Take a look at the [wiki](https://github.com/PreMiD/PreMiD/wiki)
-* [Open a issue](https://github.com/PreMiD/PreMiD/issues/new/choose) on [GitHub](https://github.com/PreMiD/PreMiD)
-* Ask a staff member in [\#support](https://discord.gg/WvfVZ8T)
+* Einen Blick auf das [Wiki](https://github.com/PreMiD/PreMiD/wiki) werfen
+* [Ein Ticket](https://github.com/PreMiD/PreMiD/issues/new/choose) auf [GitHub](https://github.com/PreMiD/PreMiD) eröffnen
+* Ein Teammitglied in [\#support](https://discord.gg/WvfVZ8T) fragen
 
   
 
