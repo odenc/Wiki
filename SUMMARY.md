@@ -26,6 +26,6 @@
 ## Support
 
 * [Betriebssysteme](support/operating-systems/README.md)
-  * [Additional Browsers](support/operating-systems/additional-browsers.md)
+  * [Zusätzliche Browser](support/operating-systems/additional-browsers.md)
 * [Services](support/services.md)
 

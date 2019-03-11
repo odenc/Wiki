@@ -1,10 +1,10 @@
 # Services
 
 {% hint style="info" %}
-Want to request a support for other services? Open an [Issue](https://github.com/Timeraa/PreMiD/issues/new?template=service_request.md)!
+Möchtest du die Unterstützung für einen Anbieter anfordern? Eröffne eine [Frage](https://github.com/Timeraa/PreMiD/issues/new?template=service_request.md)!
 {% endhint %}
 
-| Video | Music | Anime |
+| Video | Musik | Anime |
 | :--- | :--- | :--- |
 | YouTube | YouTube Music | Crunchyroll |
 | Netflix | SoundCloud | Anime4You |
@@ -12,7 +12,7 @@ Want to request a support for other services? Open an [Issue](https://github.com
 | Rabb.it |  |  |
 
 {% hint style="info" %}
-More available on our soon releasing presence store for free!
+Mehr werden bald auf unserem Presence Store verfügbar sein.
 {% endhint %}
 
 

@@ -1,12 +1,12 @@
 # Programm
 
 {% hint style="warning" %}
- You have to install the extenstion **and** the application to get it working correctly!
+ Du musst die Erweiterung **und** das Programm installieren, damit es korrekt funktioniert!
 {% endhint %}
 
-### Application
+### Programm
 
-Installing the application is very important since the extension can't do anything on its own and needs the application to activate rich presence on your profile! So, just follow these steps and install it.
+Installieren der Erweiterung ist sehr wichtig, da die Erweiterung allein nichts tun kann und das Programm braucht, um Richt Presence auf deinem Profil zu aktivieren! Folge einfach dieser Anleitung und installiere es.
 
 {% tabs %}
 {% tab title="Windows" %}

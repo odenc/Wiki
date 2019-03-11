@@ -1,12 +1,12 @@
 # Erweiterung
 
 {% hint style="warning" %}
- You have to install the extenstion **and** the application to get it working correctly!
+ Du musst die Erweiterung **und** das Programm installieren, damit es korrekt funktioniert!
 {% endhint %}
 
-### Extension
+### Erweiterung
 
-Installation of extension is the easiest part! So, just click on the your browser's name and follow the introductions.
+Installieren der Erweiterung ist der einfachste Teil! Du musst einfach nur auf den Namen deines Browser's klicken und der Anleitung folgen.
 
 {% tabs %}
 {% tab title="Firefox" %}
@@ -16,11 +16,11 @@ Firefox removed our Extension from the addon store. Don't worry we will try to r
 
 
 
-1. Go to the [releases tab](https://github.com/PreMiD/PreMiD/releases)
-2. Download [premid-1.3.1.2-fx.xpi](https://github.com/PreMiD/PreMiD/releases)
-3. Got to `about:addons`
-4. Click on the little gear symbol on the upper right hand side
-5. Choose **"Install add-on from file"**
+1. Gehe zu den [Downloads](https://github.com/PreMiD/PreMiD/releases)
+2. Downloade [premid-1.3.1.2-fx.xpi](https://github.com/PreMiD/PreMiD/releases)
+3. Gehe zu `about:addons`
+4. Klicke auf das kleine Zahnrad oben rechts
+5. Wähle **"Add-on aus Datei installieren" aus**
 6. Select the file you downloaded recently
 7. Accept the installation by clicking on **"Add"**
 8. Install the [application](https://github.com/PreMiD/PreMiD/wiki/Installation#application) if you haven't already

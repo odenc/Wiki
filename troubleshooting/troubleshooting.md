@@ -1,6 +1,6 @@
 # Troubleshooting
 
-## **First of all**
+## **Als erstes**
 
 Make sure you have the [extension](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) **and** the [application](https://github.com/PreMiD/PreMiD/wiki/Installation#application) installed! Tutorials for installation can be found [here](https://github.com/PreMiD/PreMiD/wiki/Installation).  
 You can also try different steps. You don't have to try these in the order we put them here.
