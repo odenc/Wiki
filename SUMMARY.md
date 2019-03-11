@@ -1,31 +1,30 @@
 # Table of contents
 
-* [Home](README.md)
-* [Features](features.md)
+* [Ana Sayfa](README.md)
+* [Özellikler](ozellikler.md)
 * [Changelog](changelog.md)
 
-## About
+## Hakkında
 
-* [What's RPC?](about/whats-rpc.md)
-* [What's PreMiD?](about/whats-premid/README.md)
-  * [Example pictures](about/whats-premid/example-pictures.md)
+* [RPC Nedir?](about/rpc-nedir.md)
+* [PreMiD Nedir?](about/premid-nedir/README.md)
+  * [Örnek Resimler](about/premid-nedir/ornek-resimler.md)
 
-## Installation
+## Yükleme
 
-* [Extension](installation/extension.md)
-* [Application](installation/application.md)
+* [Eklenti](installation/eklenti.md)
+* [Uygulama](installation/uygulama.md)
 
-## Contributing
+## Katkıda Bulunma
 
-* [Contributing](contributing/contributing.md)
+* [Katkıda Bulunma](katkida-bulunma/katkida-bulunma.md)
 
-## Troubleshooting
+## Hata Giderme
 
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+* [Hata Giderme](hata-giderme/hata-giderme.md)
 
-## Support
+## Destek
 
-* [Operating systems](support/operating-systems/README.md)
-  * [Additional Browsers](support/operating-systems/additional-browsers.md)
-* [Services](support/services.md)
+* [İşletim Sistemleri](destek/isletim-sistemleri.md)
+* [Servisler](destek/servisler.md)
 

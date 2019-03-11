@@ -1,18 +1,24 @@
-# Home
+---
+description: >-
+  PreMiD uygulaması, YouTube, Netflix ve desteklenen bir çok sitede gezinirken
+  sizin durumunuzu Discord'a yansıtan bir yan uygulamadır. Bu sayfa PreMiD'in
+  resmi anlatım ve destek sayfasıdır.
+---
 
-## Inhaltsverzeichnis
+# Ana Sayfa
 
-* Über
-  * [Was ist RPC?](about/whats-rpc.md)
-  * [Was ist PreMiD?](about/whats-premid/)
-    * [Beispielbilder](about/whats-premid/example-pictures.md)
-* Installation
-  * [Erweiterung](installation/extension.md)
-  * [Programm](installation/application.md)
-* [Mitwirken](contributing/contributing.md)
-* [Troubleshooting](troubleshooting/troubleshooting.md)
-* Support
-  * [Betriebssysteme](support/operating-systems/)
-    * [Zusätzliche Browser](support/operating-systems/additional-browsers.md)
-  * [Services](support/services.md)
+## İçerik Tablosu
+
+* Bilgilendirme
+  * [RPC nedir?](about/rpc-nedir.md)
+  * [PreMiD nedir?](about/premid-nedir/)
+    * [Örnek ekran görüntüleri](about/premid-nedir/ornek-resimler.md)
+* Yükleme
+  * [Eklenti](installation/eklenti.md)
+  * [Uygulama](installation/uygulama.md)
+* [Katkıda bulunma](katkida-bulunma/katkida-bulunma.md)
+* [Hata giderme](hata-giderme/hata-giderme.md)
+* Destek
+  * [İşletim sistemleri](destek/servisler.md)
+  * [Desteklenen servisler](destek/servisler.md)
 
