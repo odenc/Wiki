@@ -1,18 +1,18 @@
 # Home
 
-جدول المحتويات
+## Inhaltsverzeichnis
 
-* About
-  * [What's RPC?](about/whats-rpc.md)
-  * [What's PreMiD?](about/whats-premid/)
-    * [Example pictures](about/whats-premid/example-pictures.md)
+* Über
+  * [Was ist RPC?](about/whats-rpc.md)
+  * [Was ist PreMiD?](about/whats-premid/)
+    * [Beispielbilder](about/whats-premid/example-pictures.md)
 * Installation
-  * [Extension](installation/extension.md)
-  * [Application](installation/application.md)
-* [Contributing](contributing/contributing.md)
+  * [Erweiterung](installation/extension.md)
+  * [Programm](installation/application.md)
+* [Mitwirken](contributing/contributing.md)
 * [Troubleshooting](troubleshooting/troubleshooting.md)
 * Support
-  * [Operating systems](support/operating-systems/)
-    * [Additional Browsers](support/operating-systems/additional-browsers.md)
+  * [Betriebssysteme](support/operating-systems/)
+    * [Zusätzliche Browser](support/operating-systems/additional-browsers.md)
   * [Services](support/services.md)
 

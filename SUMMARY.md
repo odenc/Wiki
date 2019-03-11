@@ -1,23 +1,23 @@
 # Table of contents
 
 * [Home](README.md)
-* [Features](features.md)
+* [Funktionen](features.md)
 * [Changelog](changelog.md)
 
 ## About
 
-* [What's RPC?](about/whats-rpc.md)
-* [What's PreMiD?](about/whats-premid/README.md)
-  * [Example pictures](about/whats-premid/example-pictures.md)
+* [Was ist RPC?](about/whats-rpc.md)
+* [Was ist PreMiD?](about/whats-premid/README.md)
+  * [Beispielbilder](about/whats-premid/example-pictures.md)
 
 ## Installation
 
-* [Extension](installation/extension.md)
-* [Application](installation/application.md)
+* [Erweiterung](installation/extension.md)
+* [Programm](installation/application.md)
 
 ## Contributing
 
-* [Contributing](contributing/contributing.md)
+* [Mitwirken](contributing/contributing.md)
 
 ## Troubleshooting
 
@@ -25,7 +25,7 @@
 
 ## Support
 
-* [Operating systems](support/operating-systems/README.md)
-  * [Additional Browsers](support/operating-systems/additional-browsers.md)
+* [Betriebssysteme](support/operating-systems/README.md)
+  * [Zusätzliche Browser](support/operating-systems/additional-browsers.md)
 * [Services](support/services.md)
 
