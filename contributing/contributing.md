@@ -1,4 +1,4 @@
-# Contributing
+# Contribuer
 
 ### Contribute as a user
 

@@ -1,4 +1,4 @@
-# What's RPC?
+# Qu'est-ce que RPC ?
 
 #### What is RPC and how does it work?
 

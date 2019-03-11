@@ -1,4 +1,4 @@
-# Troubleshooting
+# Résolution de problèmes
 
 ## **First of all**
 
