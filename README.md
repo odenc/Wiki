@@ -4,9 +4,9 @@ description: Welcome to the official Wiki of PreMiD
 
 # Home
 
-## Table of contents
+## Table des matières
 
-* About
+* A propos
   * [What's RPC?](about/whats-rpc.md)
   * [What's PreMiD?](about/whats-premid/)
     * [Example pictures](about/whats-premid/example-pictures.md)
