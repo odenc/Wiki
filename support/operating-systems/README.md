@@ -1,6 +1,6 @@
-# Betriebssysteme
+# Operating systems
 
-| Betriebssystem | Programm | Chrome | Firefox |
+| Operating System | Application | Chrome | Firefox |
 | :---: | :---: | :---: | :---: |
 | Windows | ✓ | ✓ | Beta |
 | Linux | Self-build | ✓ | Beta |

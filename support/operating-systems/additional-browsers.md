@@ -1,6 +1,6 @@
-# Zusätzliche Browser
+# Additional Browsers
 
-| Betriebssystem | Opera | Chromium-basierend |
+| Operating System | Opera | Chromium-based |
 | :---: | :---: | :---: |
 | Windows | ✓ | ✓ |
 | Linux | ✓ | ✓ |

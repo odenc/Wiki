@@ -1,13 +1,13 @@
-# Beispielbilder
+# Example pictures
 
-#### Beispiele
+#### Examples
 
-So sieht es aus, wenn du etwas auf YouTube schaust:
+This is what you listen on YouTube:
 
 ![YouTube](../../.gitbook/assets/yt_example.PNG)
 
   
-Und so sieht es aus, wenn PreMiD läuft und fähig ist Informationen von deinem Browser zu empfangen: 
+And this is what happens on your profile when PreMiD is running and able to get information from your browser: 
 
 ![Discord RPC](../../.gitbook/assets/discord_rpc_example2.PNG)
 
