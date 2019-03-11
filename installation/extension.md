@@ -1,4 +1,4 @@
-# Extension
+# إضافة المتصفح
 
 {% hint style="warning" %}
  You have to install the extenstion **and** the application to get it working correctly!

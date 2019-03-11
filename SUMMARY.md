@@ -1,31 +1,31 @@
 # Table of contents
 
-* [Home](README.md)
-* [Features](features.md)
-* [Changelog](changelog.md)
+* [الصفحة الرئيسية](README.md)
+* [المميزات](features.md)
+* [التغييرات](changelog.md)
 
-## About
+## مقدمة
 
-* [What's RPC?](about/whats-rpc.md)
-* [What's PreMiD?](about/whats-premid/README.md)
-  * [Example pictures](about/whats-premid/example-pictures.md)
+* [RPCما هو الـ](about/whats-rpc.md)
+* [PreMiD ما هو](about/whats-premid/README.md)
+  * [أمثلة](about/whats-premid/example-pictures.md)
 
-## Installation
+## التثبيت
 
-* [Extension](installation/extension.md)
-* [Application](installation/application.md)
+* [إضافة المتصفح](installation/extension.md)
+* [التطبيق](installation/application.md)
 
-## Contributing
+## المساهمة
 
-* [Contributing](contributing/contributing.md)
+* [المساهمة](contributing/contributing.md)
 
-## Troubleshooting
+## إصلاح الأخطاء الشائعة
 
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+* [إصلاح الأخطاء الشائعة](troubleshooting/troubleshooting.md)
 
-## Support
+## الدعم
 
-* [Operating systems](support/operating-systems/README.md)
-  * [Additional Browsers](support/operating-systems/additional-browsers.md)
-* [Services](support/services.md)
+* [أنظمة التشغيل](support/operating-systems/README.md)
+  * [متصفحات أخرى](support/operating-systems/additional-browsers.md)
+* [خدمات](support/services.md)
 

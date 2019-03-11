@@ -1,4 +1,4 @@
-# Operating systems
+# أنظمة التشغيل
 
 | Operating System | Application | Chrome | Firefox |
 | :---: | :---: | :---: | :---: |
