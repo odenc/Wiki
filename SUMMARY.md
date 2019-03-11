@@ -12,8 +12,8 @@
 
 ## Instalação
 
-* [Extension](installation/extension.md)
-* [Application](installation/application.md)
+* [Extensão](installation/extension.md)
+* [Aplicação](installation/application.md)
 
 ## Contribuindo
 
@@ -21,7 +21,7 @@
 
 ## Troubleshooting
 
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+* [Solução de problemas](troubleshooting/troubleshooting.md)
 
 ## Suporte
 
