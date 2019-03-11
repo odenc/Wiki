@@ -1,7 +1,7 @@
 # Application
 
 {% hint style="warning" %}
-Vous devez installer l'extenstion **et** l'application pour que cela fonctionne correctement !
+Vous devez installer l’extension **et** l'application pour que cela fonctionne correctement !
 {% endhint %}
 
 ### Application

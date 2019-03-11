@@ -13,6 +13,6 @@
 * [Résolution de problèmes](troubleshooting/troubleshooting.md)
 * Support
   * [Systèmes d'exploitation](support/operating-systems/)
-    * [Browsers additionels](support/operating-systems/additional-browsers.md)
+    * [Navigateurs additionels](support/operating-systems/additional-browsers.md)
   * [Services](support/services.md)
 
