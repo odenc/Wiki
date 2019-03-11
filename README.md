@@ -1,6 +1,6 @@
 # Home
 
-جدول المحتويات
+## Table of contents
 
 * About
   * [What's RPC?](about/whats-rpc.md)
