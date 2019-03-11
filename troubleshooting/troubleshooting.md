@@ -1,4 +1,4 @@
-# Troubleshooting
+# إصلاح الأخطاء الشائعة
 
 ## **First of all**
 

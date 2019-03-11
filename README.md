@@ -1,18 +1,18 @@
-# Home
+# الصفحة الرئيسية
 
-## Table of contents
+## جدول المحتويات
 
-* About
-  * [What's RPC?](about/whats-rpc.md)
-  * [What's PreMiD?](about/whats-premid/)
-    * [Example pictures](about/whats-premid/example-pictures.md)
-* Installation
-  * [Extension](installation/extension.md)
-  * [Application](installation/application.md)
-* [Contributing](contributing/contributing.md)
-* [Troubleshooting](troubleshooting/troubleshooting.md)
-* Support
-  * [Operating systems](support/operating-systems/)
-    * [Additional Browsers](support/operating-systems/additional-browsers.md)
-  * [Services](support/services.md)
+* مقدمة
+  * [ما هو الRPC؟](about/whats-rpc.md)
+  * [ما هو PreMiD؟](about/whats-premid/)
+    * [أمثلة](about/whats-premid/example-pictures.md)
+* التثبيت
+  * [إضافة المتصفح](installation/extension.md)
+  * [التطبيق](installation/application.md)
+* [المساهمة](contributing/contributing.md)
+* [إصلاح الأخطاء الشائعة](troubleshooting/troubleshooting.md)
+* الدعم
+  * [أنظمة التشغيل](support/operating-systems/)
+    * [متصفحات أخرى](support/operating-systems/additional-browsers.md)
+  * [خدمات](support/services.md)
 
