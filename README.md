@@ -1,7 +1,3 @@
----
-description: Welcome to the official Wiki of PreMiD
----
-
 # Home
 
 ## Table des matières
