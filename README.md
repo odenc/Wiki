@@ -1,9 +1,5 @@
 # Accueil
 
-{% hint style="warning" %}
-La traduction du wiki vers le français n'a pas encore été terminée. Pour cela il se peut que vous trouviez des phrases qui n'ont pas encore été traduites ou bien des parties manquantes. Pour l'instant il est conseillé que vous consultiez [le wiki original](https://wiki.premid.app/).
-{% endhint %}
-
 ## Table des matières
 
 * À propos
