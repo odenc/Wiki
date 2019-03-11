@@ -8,5 +8,5 @@ Rich Presence é uma das funções mais legais do Discord nesse momento e basica
 
 ![RPC do Spotify](../.gitbook/assets/spotify.png)
 
-![RCP do Spotify](../.gitbook/assets/undefined%20%281%29.png)
+![RPC do Spotify](../.gitbook/assets/undefined%20%281%29.png)
 
