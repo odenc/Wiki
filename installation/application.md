@@ -37,7 +37,7 @@ Finally, if you've installed everything correct, you can start using PreMiD, jus
 
 {% tab title="Linux" %}
 {% hint style="info" %}
-If you want to talk about the GNU/Linux support visit: [https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
+Wenn du über die GNU/Linux-Unterstützung reden möchtest, besuche: [https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
 {% endhint %}
 
 1. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
