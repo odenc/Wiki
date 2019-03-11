@@ -1,4 +1,4 @@
-# Mitwirken
+# Contributing
 
 ### Contribute as a user
 

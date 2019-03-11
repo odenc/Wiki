@@ -1,4 +1,4 @@
-# Beispielbilder
+# Example pictures
 
 #### Examples
 
