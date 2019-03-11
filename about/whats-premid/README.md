@@ -1,12 +1,12 @@
-# What's PreMiD?
+# Was ist PreMiD?
 
-#### What is PreMiD?
+#### Was ist PreMiD?
 
-**PreMiD** is a simple, configurable utility that allows you to show what you're watching/listening in your Discord **now playing** status. It supports [many different platforms](https://github.com/PreMiD/PreMiD/wiki/Support#services), and will support multiple users watching the same content simultaneously in an upcoming update. You can also get more information about RPCs and how they work, just scroll a little down.
+**PreMiD** ist ein simples, konfigurierbares Werkzeug, dass dir erlaubt in der **Discord Game Activity** anzuzeigen, was du ansiehst/anhörst. Es unterstützt [viele verschiedene Plattformen](https://wiki.premid.app/support/services) und wird in einem baldigen Update mehrere User, die den gleichen Inhalt anschauen, unterstützen.
 
-#### How does PreMiD work?
+#### Wie funktioniert PreMiD?
 
-Once you installed both extension and the app, they are always contacting with each other and are in touch at any time. For example, when you start watching/listening something on YouTube, YouTube Music, Netflix or other [supported services](https://github.com/PreMiD/PreMiD/wiki/Support#services), the browser extension sends the information of video/song to the PreMiD Desktop client and PreMiD processes it, after that PreMiD sends the information with the correct way to Discord and Discord automatically sets your status. Well, all of these happens in 0.1 second so you don't have to worry about it.
+Wenn du die Erweiterung und das Programm installiert hast, werden sie immer miteinander kommunizieren und immer füreinander da sein. Zum Beispiel, wenn du anfängst etwas auf YouTube, YouTube Music, Netflix oder anderen [unterstützten Services](https://github.com/PreMiD/PreMiD/wiki/Support#services) anzusehen/anzuhören wird die Browsererweiterung die Information von einem Video/Song zur PreMiD-Desktop-Client senden und verarbeiten. Danach werden sie auf direktem Wege zu Discord weitergeleitet, welches dein Status automatisch festlegt. All das passiert in unter 0,1 Sekunden also musst du dir keine Sorgen machen.
 
 {% page-ref page="../../features.md" %}
 

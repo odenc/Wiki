@@ -1,12 +1,12 @@
-# Application
+# Programm
 
 {% hint style="warning" %}
- You have to install the extenstion **and** the application to get it working correctly!
+ Du musst die Erweiterung **und** das Programm installieren, damit es korrekt funktioniert!
 {% endhint %}
 
-### Application
+### Programm
 
-Installing the application is very important since the extension can't do anything on its own and needs the application to activate rich presence on your profile! So, just follow these steps and install it.
+Installieren der Erweiterung ist sehr wichtig, da die Erweiterung allein nichts tun kann und das Programm braucht, um Richt Presence auf deinem Profil zu aktivieren! Folge einfach dieser Anleitung und installiere es.
 
 {% tabs %}
 {% tab title="Windows" %}
@@ -37,7 +37,7 @@ Finally, if you've installed everything correct, you can start using PreMiD, jus
 
 {% tab title="Linux" %}
 {% hint style="info" %}
-If you want to talk about the GNU/Linux support visit: [https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
+Wenn du über die GNU/Linux-Unterstützung reden möchtest, besuche: [https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
 {% endhint %}
 
 1. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
