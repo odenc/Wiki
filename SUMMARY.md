@@ -4,7 +4,7 @@
 * [Fonctionnalités](features.md)
 * [Changelog](changelog.md)
 
-## About
+## À propos
 
 * [Qu'est-ce que RPC ?](about/whats-rpc.md)
 * [Qu'est-ce que PreMiD ?](about/whats-premid/README.md)
@@ -15,11 +15,11 @@
 * [Extension](installation/extension.md)
 * [Application](installation/application.md)
 
-## Contributing
+## Contribuer
 
 * [Contribuer](contributing/contributing.md)
 
-## Troubleshooting
+## Résolution de problèmes
 
 * [Résolution de problèmes](troubleshooting/troubleshooting.md)
 

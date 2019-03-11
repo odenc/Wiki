@@ -2,7 +2,7 @@
 
 ## Table des matières
 
-* A propos
+* À propos
   * [What's RPC?](about/whats-rpc.md)
   * [What's PreMiD?](about/whats-premid/)
     * [Example pictures](about/whats-premid/example-pictures.md)
