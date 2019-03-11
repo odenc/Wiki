@@ -13,7 +13,7 @@
 ## Instalação
 
 * [Extensão](installation/extension.md)
-* [Aplicação](installation/application.md)
+* [Aplicativo](installation/application.md)
 
 ## Contribuindo
 
