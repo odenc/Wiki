@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.2.0.1-pre · 21-January-2018
+## 1.2.0.1-pre · 21-January-2019
 
 ### Removed
 
