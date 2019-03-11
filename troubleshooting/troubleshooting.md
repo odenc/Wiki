@@ -62,12 +62,12 @@ Manchmal ist etwas mit den Dateien schiefgelaufen... Installationstutorials kön
 
 {% tabs %}
 {% tab title="Windows" %}
-1. Go to `C:\Users\USER\AppData\Local` and delete folder `premid`
-2. Go to `C:\Users\USER\AppData\Roaming` and delete folder `PreMiD`
+1. Gehe zu `C:\Users\USER\AppData\Local` und lösche Ordner`premid`
+2. Gehe zu `C:\Users\USER\AppData\Roaming`und lösche Ordner`PreMiD`
 {% endtab %}
 
 {% tab title="Mac OS" %}
-Go to `YOURDISK:/users/USER/~Library/Application Support` and delete folder `PreMiD`
+Gehe zu `YOURDISK:/users/USER/~Library/Application Support` und lösche Ordner`PreMiD`
 {% endtab %}
 {% endtabs %}
 
