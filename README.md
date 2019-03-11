@@ -1,17 +1,17 @@
 # Home
 
-## Table of contents
+## Tabela de conteúdos
 
-* About
-  * [What's RPC?](about/whats-rpc.md)
-  * [What's PreMiD?](about/whats-premid/)
-    * [Example pictures](about/whats-premid/example-pictures.md)
-* Installation
+* Sobre
+  * [O que é RPC?](about/whats-rpc.md)
+  * [O que é o PreMiD?](about/whats-premid/)
+    * [Imagens de exemplo](https://wiki.premid.app/v/brazilian-portuguese/about/whats-premid/example-pictures)
+* Instalação
   * [Extension](installation/extension.md)
   * [Application](installation/application.md)
-* [Contributing](contributing/contributing.md)
+* [Contribuindo](https://wiki.premid.app/v/brazilian-portuguese/contributing/contributing)
 * [Troubleshooting](troubleshooting/troubleshooting.md)
-* Support
+* Suporte
   * [Operating systems](support/operating-systems/)
     * [Additional Browsers](support/operating-systems/additional-browsers.md)
   * [Services](support/services.md)

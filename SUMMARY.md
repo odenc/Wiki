@@ -17,7 +17,7 @@
 
 ## Contribuindo
 
-* [Contributing](contributing/contributing.md)
+* [Contribuindo](contributing/contributing.md)
 
 ## Troubleshooting
 
@@ -25,7 +25,7 @@
 
 ## Suporte
 
-* [Operating systems](support/operating-systems/README.md)
-  * [Additional Browsers](support/operating-systems/additional-browsers.md)
-* [Services](support/services.md)
+* [Sistemas Operacionais](support/operating-systems/README.md)
+  * [Navegadores adicionais](support/operating-systems/additional-browsers.md)
+* [Serviços](support/services.md)
 
