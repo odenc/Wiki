@@ -2,7 +2,7 @@
 
 ## **First of all**
 
-Make sure you have the [extension](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) **and** the [application](https://github.com/PreMiD/PreMiD/wiki/Installation#application) installed! Tutorials for installation can be found [here](https://github.com/PreMiD/PreMiD/wiki/Installation).  
+Make sure you have the [extension](../installation/extension.md) **and** the [application](../installation/application.md) installed!  
 You can also try different steps. You don't have to try these in the order we put them here.
 
 ## Discord won't show the presence
@@ -23,9 +23,9 @@ Dev versions and self-injected versions won't update automatically
 
 ![Windows taskbar](../.gitbook/assets/checkforupdates.png)
 
-### Make sure that you've enabled Discord Rich Presence in settingsCertifique-se de ter ativado Discord a Rich Presence nas configurações
+### Make sure that you've enabled Discord Rich Presence in settings
 
-![Discord Game Activity](../.gitbook/assets/gameactivity.png)
+![Discord Game Activity](../.gitbook/assets/gameactivity_edited.png)
 
 ### Reload the page
 
@@ -52,11 +52,11 @@ Press **Strg+R** or **CMD+R** on you keyboard or restart Discord manually.
 
 ### Restarting your computer
 
-I hope you know how to restart a computer
+I hope you know how to restart a computer.
 
 ### Reinstalling PreMiD
 
-Sometimes there's something wrong with the files... Tutorials for installation can be found [here](https://github.com/PreMiD/PreMiD/wiki/Installation).
+Sometimes there's something wrong with the files... Tutorials for installation can be found [here](../installation/application.md).
 
 ### Manual removal
 
@@ -71,14 +71,13 @@ Go to `YOURDISK:/users/USER/~Library/Application Support` and delete the folder 
 {% endtab %}
 {% endtabs %}
 
-Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.  
-Or visit the [wiki](../) for more detailed steps.
+Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.
 
 ## That hasn't solved my problem
 
 You can either:
 
-* Take a look at the [wiki](https://github.com/PreMiD/PreMiD/wiki)
+* Take a look at the [wiki](../)
 * [Open a issue](https://github.com/PreMiD/PreMiD/issues/new/choose) on [GitHub](https://github.com/PreMiD/PreMiD)
 * Ask a staff member in [\#support](https://discord.gg/WvfVZ8T)
 
