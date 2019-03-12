@@ -26,13 +26,13 @@
 {% endtab %}
 
 {% tab title="Mac OS" %}
-1. ดาวน์โหลดเวอร์ชันล่าสุดของ [แอปพลิเคชัน](https://github.com/Timeraa/YT-Presence/releases/latest)
+1. ดาวน์โหลดเวอร์ชันล่าสุดของ [แอปพลิเคชัน](https://premid.app/downloads)
 2. เปิดไฟล์ .dmg ที่ดาวน์โหลดมา
 3. ลาก **PreMiD** ไปที่โฟลเดอร์ Application
 4. เปิดลันช์แพด หรือกด F4
 5. เปิด PreMiD
 6. กด **"ยินยอม"** หากมีหน้าต่างขึ้นมา
-7. ติดตั้ง [ส่วนเสริม](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) หากคุณยังไม่ได้ติดตั้ง
+7. ติดตั้ง [ส่วนเสริม](extension.md) หากคุณยังไม่ได้ติดตั้ง
 {% endtab %}
 
 {% tab title="Linux" %}

@@ -23,14 +23,14 @@ Firefox ได้ลบส่วนเสริมของเราออกไ
 5. เลือก "**ติดตั้งส่วนเสริมจากไฟล์...**" \(Install add-on from file**\)**
 6. เลือกไฟล์ที่ดาวน์โหลดมา
 7. ยอมรับการติดตั้งโดยการกด **"เพิ่ม"** \(Add\)
-8. ติดตั้งตัว[**แอพลิเคชัน**](https://github.com/PreMiD/PreMiD/wiki/Installation#application)ถ้าหากคุณยังไม่มีมัน
+8. ติดตั้งตัว[**แอพลิเคชัน**](application.md)ถ้าหากคุณยังไม่มีมัน
 {% endtab %}
 
 {% tab title="Chrome" %}
 1. ไปที่ [หน้าสโตร์](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi?authuser=0&hl=en
    )
 2. คลิกที่ **"เพิ่มเข้าใน Chrome" \(Add to Chrome\)**
-3. ติดตั้งแอปพลิเคชันถ้าหากคุณยังไม่มี
+3. ติดตั้ง[แอปพลิเคชัน](application.md)ถ้าหากคุณยังไม่มี
 
 ![&#xE2B;&#xE19;&#xE49;&#xE32;&#xE2A;&#xE42;&#xE15;&#xE23;&#xE4C; Chrome](../.gitbook/assets/add-to-chrome_edited.png)
 {% endtab %}
@@ -38,7 +38,7 @@ Firefox ได้ลบส่วนเสริมของเราออกไ
 {% tab title="Opera" %}
 1. ติดตั้งส่วนเสริมชื่อว่า **"**[**Install Chrome Extensions**](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**"**
 2. ติดตั้ง [ส่วนเสริมของ PreMiD](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi)
-3. ติดตั้ง [แอปพลิเคชัน](https://github.com/PreMiD/PreMiD/wiki/Installation#application) ถ้าหากคุณยังไม่มี
+3. ติดตั้ง [แอปพลิเคชัน](application.md) ถ้าหากคุณยังไม่มี
 {% endtab %}
 {% endtabs %}
 
