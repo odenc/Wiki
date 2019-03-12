@@ -2,7 +2,7 @@
 
 ## **First of all**
 
-Make sure you have the [extension](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) **and** the [application](https://github.com/PreMiD/PreMiD/wiki/Installation#application) installed! Tutorials for installation can be found [here](https://github.com/PreMiD/PreMiD/wiki/Installation).  
+Make sure you have the [extension](../installation/extension.md) **and** the [application](../installation/application.md) installed!  
 You can also try different steps. You don't have to try these in the order we put them here.
 
 ## Discord won't show the presence
@@ -71,14 +71,12 @@ Go to `YOURDISK:/users/USER/~Library/Application Support` and delete folder `Pre
 {% endtab %}
 {% endtabs %}
 
-Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.  
-Or visit the [wiki](../) for more detailed steps.
+Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.
 
 ## That hasn't solved my problem
 
 You can either:
 
-* Take a look at the [wiki](https://github.com/PreMiD/PreMiD/wiki)
 * [Open a issue](https://github.com/PreMiD/PreMiD/issues/new/choose) on [GitHub](https://github.com/PreMiD/PreMiD)
 * Ask a staff member in [\#support](https://discord.gg/WvfVZ8T)
 
