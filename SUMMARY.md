@@ -1,31 +1,31 @@
 # Table of contents
 
 * [Home](README.md)
-* [Recursos](features.md)
+* [Features](features.md)
 * [Changelog](changelog.md)
 
-## Sobre
+## About
 
-* [O que é RPC?](about/whats-rpc.md)
-* [O que é o PreMiD?](about/whats-premid/README.md)
-  * [Imagens de exemplo](about/whats-premid/example-pictures.md)
+* [What's RPC?](about/whats-rpc.md)
+* [What's PreMiD?](about/whats-premid/README.md)
+  * [Example pictures](about/whats-premid/example-pictures.md)
 
-## Instalação
+## Installation
 
-* [Extensão](installation/extension.md)
-* [Aplicativo](installation/application.md)
+* [Extension](installation/extension.md)
+* [Application](installation/application.md)
 
-## Contribuindo
+## Contributing
 
-* [Contribuindo](contributing/contributing.md)
+* [Contributing](contributing/contributing.md)
 
-## Solução de problemas
+## Troubleshooting
 
-* [Solução de problemas](troubleshooting/troubleshooting.md)
+* [Troubleshooting](troubleshooting/troubleshooting.md)
 
-## Suporte
+## Support
 
-* [Sistemas Operacionais](support/operating-systems/README.md)
-  * [Navegadores adicionais](support/operating-systems/additional-browsers.md)
-* [Serviços](support/services.md)
+* [Operating systems](support/operating-systems/README.md)
+  * [Additional Browsers](support/operating-systems/additional-browsers.md)
+* [Services](support/services.md)
 

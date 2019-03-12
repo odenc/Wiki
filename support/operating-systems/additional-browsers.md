@@ -1,6 +1,6 @@
-# Navegadores adicionais
+# Additional Browsers
 
-| Sistema Operacional | Opera | Baseado em Chrominum |
+| Operating Systems | Opera | Chromium-based |
 | :---: | :---: | :---: |
 | Windows | ✓ | ✓ |
 | Linux | ✓ | ✓ |
