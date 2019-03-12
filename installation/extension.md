@@ -35,9 +35,9 @@ Firefox a retiré notre extension de la liste des extensions. Ne vous inquiétez
 {% endtab %}
 
 {% tab title="Opera" %}
-1. Install the extension called **"**[**Install Chrome Extensions**](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**"**
-2. Now install the [PreMiD extension](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi)
-3. Install the [application](https://github.com/PreMiD/PreMiD/wiki/Installation#application) if you haven't already
+1. Installez l'extension "[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)".
+2. Installez maintenant [l'extension PreMiD](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi)
+3. Installez [l'application](application.md) si vous ne l'avez pas déjà fait.
 {% endtab %}
 {% endtabs %}
 
