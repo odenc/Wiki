@@ -1,40 +1,32 @@
 # Contribuer
 
-### Contribute as a user
+### Contribuer en tant qu'utilisateur
 
-Just by using [PreMiD](https://premid.app/) and be here on our [Discord server](https://discord.gg/WvfVZ8T) is a great pleasure.  
-Thanks for using our service!
+Le simple fait d'utiliser [PreMiD](https://premid.app/) et de rejoindre notre [serveur Discord](https://discord.gg/WvfVZ8T) est un grand honneur. Nous vous remercions d'utiliser notre service !
 
-### Contribute as a translator
+### Contribuer en tant que traducteur
 
-Do you want to see your favourite language in PreMiD? It is easier than it seems:  
-Just click [this link](https://poeditor.com/join/project/Zzl1oOQV5g) and choose you language\(s\) you want to translate.
+Voulez-vous voir votre langue préférée dans PreMiD ? C'est plus facile qu'il n'y paraît :                         Cliquez simplement sur [ce lien](https://poeditor.com/join/project/Zzl1oOQV5g) et choisissez la ou les langues que vous souhaitez traduire.
 
-### Contribute as a donator
+### Contribuer en tant que donateur
 
-Just type 'donate' and you're ready to go. ![:money\_with\_wings:](https://camo.githubusercontent.com/8c82232d72bdb736fd395fab7b9bf6d01b4a3cca/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663462382e706e67)  
-_Or you_ [_click here_](https://github.com/PreMiD/PreMiD) _and choose a different option._
+Vous pouvez nous soutenir financièrement sur notre page [Patreon](https://www.patreon.com/Timeraa), merci beaucoup !
 
-### Contribute as a Patreon
+### Contribuer en tant que designer
 
-OwO You're about to be a [Patreon](https://www.patreon.com/Timeraa). OwO
+Vous savez bien utiliser Photoshop ou des programmes similaires ? Vous êtes peut-être le talent que nous recherchons. Il suffit de prendre contact avec  un de nos administrateurs présent sur notre [serveur Discord](https://discord.gg/WvfVZ8T) pour commencer.
 
-### Contribute as a designer
+### Contribuer en tant que contribuateur
 
-You are well known with Photoshop or similar programs? Maybe you are talent we are looking for. Just ping an Admin to start."
+Saisissez votre chance de faire partie de [PreMiD](https://premid.app/) ! Vous pouvez ajouter vos propres présences ou même coder d'autres choses. Développez quelque chose et ouvrez une "pull request" sur [GitHub](https://github.com/PreMiD/PreMiD).
 
-### Contribute as a contributor
+### Contribuer en tant que modérateur
 
-Now it's your chance to be a part of [PreMiD](https://premid.app/)! You can add your own presences or even code other things.  
-Just code something and open a pull request on [GitHub](https://github.com/PreMiD/PreMiD).  
-Click [here](https://github.com/PreMiD/PreMiD/blob/stable/CONTRIBUTING.md) to see our contributing guidelines.
+Les applications sont actuellement fermées mais nous chercherons à agrandir notre équipe si nous avons plus d'utilisateurs.
 
-### Contribute as a moderator
+Dernière date à laquelle nous avons accepté des modérateurs dans notre équipe : 12/24/2018
 
-The applications are currently closed but we'll search for more if we get more users.  
-Last date we accepted moderators into our team: 12/24/2018"
+### ~~Contribuer en tant qu'administrateur~~
 
-### ~~Contribute as a administrator~~
-
-"_You can't_
+Vous ne pouvez pas
 
