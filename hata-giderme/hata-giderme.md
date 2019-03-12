@@ -44,7 +44,6 @@ description: Bu sayfa ile PreMiD uygulamasında yaşadığınız sıkıntıları
 
 ### Eğer bunlar işe yaramadıysa...
 
-* [Wiki](https://github.com/PreMiD/PreMiD/wiki) sayfasına göz atabilirsiniz.
 * [GitHub](https://github.com/PreMiD/PreMiD) üzerinden bir [bildiri](https://github.com/PreMiD/PreMiD/issues/new/choose) açabilirsiniz.
 * Discord sunucumuzdaki [\#support](https://discord.premid.app/) kanalından bir yetkiliye danışabilirsiniz.
 

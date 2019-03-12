@@ -30,7 +30,7 @@ Sonunda, eğer her şeyi düzgün yüklediyseniz, [desteklenen servislerden](../
 {% endtab %}
 
 {% tab title="Mac OS" %}
-1. [Uygulamanın](https://github.com/Timeraa/YT-Presence/releases/latest) son sürümünü indirin.
+1. [Uygulamanın](https://premid.app/downloads) son sürümünü indirin.
 2. İndirilen `.dmg` dosyasını açın.
 3. **PreMiD**'i **Uygulamalar** dosyanıza taşıyın.
 4. Launchpad'inizi açın veya F4'e basın.
