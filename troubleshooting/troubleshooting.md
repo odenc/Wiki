@@ -77,7 +77,6 @@ Makiere ein Teammitglied auf unserem [Discord-Server](https://discord.gg/WvfVZ8T
 
 Du kannst:
 
-* Einen Blick auf das [Wiki](../) werfen
 * [Ein Ticket](https://github.com/PreMiD/PreMiD/issues/new/choose) auf [GitHub](https://github.com/PreMiD/PreMiD) eröffnen
 * Ein Teammitglied in [\#support](https://discord.gg/WvfVZ8T) fragen
 
