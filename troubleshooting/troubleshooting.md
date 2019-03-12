@@ -58,12 +58,12 @@ Parfois il se peut que quelque chose n'aille pas avec les fichiers, le tutoriel 
 
 {% tabs %}
 {% tab title="Windows" %}
-1. Rendez-vous dans `C:\Users\USER\AppData\Local` et supprimez le dossier `premid`
-2. Rendez-vous dans `C:\Users\USER\AppData\Roaming` et supprimez le dossier `PreMiD`
+1. Rendez-vous dans `C:\Utilisateurs\UTILISATEUR\AppData\Local` et supprimez le dossier `premid`
+2. Rendez-vous dans `C:\Utilisateurs\UTILISATEUR\AppData\Roaming` et supprimez le dossier `PreMiD`
 {% endtab %}
 
 {% tab title="Mac OS" %}
-Go to `YOURDISK:/users/USER/~Library/Application Support` and delete folder `PreMiD`
+Rendez-vous dans `VOTREDISQUE:/utilisateurs/utilisateur/~Library/Application Support` et supprimez le dossier `PreMiD`
 {% endtab %}
 {% endtabs %}
 
