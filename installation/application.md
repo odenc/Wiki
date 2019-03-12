@@ -26,13 +26,13 @@ Letztendlich, wenn du alles richtig gemacht hast, kannst du starten PreMiD zu nu
 {% endtab %}
 
 {% tab title="Mac OS" %}
-1. Lade dir die neueste Version des [Programms](https://github.com/Timeraa/YT-Presence/releases/latest) herunter
+1. Lade dir die neueste Version des [Programms](https://premid.app/downloads) herunter
 2. Öffne die heruntergeladene **.dmg**-Datei
 3. Verschiebe **PreMiD** in deinen **Programme**-Ordner
 4. Öffne dein **Launchpad** oder drücke **F4**
 5. Öffne **PreMiD**
 6. Drücke **"Erlauben"**, wenn sich ein Fenster öffnet
-7. Installiere die [Erweiterung](https://github.com/PreMiD/PreMiD/wiki/Installation#extension), falls du es noch nicht getan hast
+7. Installiere die [Erweiterung](extension.md), falls du es noch nicht getan hast
 {% endtab %}
 
 {% tab title="Linux" %}

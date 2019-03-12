@@ -2,7 +2,7 @@
 
 ## **Als erstes**
 
-Sei dir sicher, dass du die [Erweiterung](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) **und** das [Programm](https://github.com/PreMiD/PreMiD/wiki/Installation#application) installiert hast! Installationstutorials können [hier](https://github.com/PreMiD/PreMiD/wiki/Installation) gefunden werden.  
+Sei dir sicher, dass du die [Erweiterung](../installation/extension.md) **und** das [Programm](../installation/application.md) installiert hast!  
 Du kannst die Schritte auch in einer anderen Reihenfolge ausprobieren.
 
 ## Discord zeigt die Präsenz nicht an
@@ -56,7 +56,7 @@ Ich hoffe du weißt, wie man einen Computer neustartet.
 
 ### PreMiD neuinstallieren
 
-Manchmal ist etwas mit den Dateien schiefgelaufen... Installationstutorials können [hier](https://github.com/PreMiD/PreMiD/wiki/Installation) gefunden werden.
+Manchmal ist etwas mit den Dateien schiefgelaufen... Installationstutorials können [hier](../installation/application.md) gefunden werden.
 
 ### Manuelle Entfernung
 
@@ -77,10 +77,7 @@ Makiere ein Teammitglied auf unserem [Discord-Server](https://discord.gg/WvfVZ8T
 
 Du kannst:
 
-* Einen Blick auf das [Wiki](https://github.com/PreMiD/PreMiD/wiki) werfen
+* Einen Blick auf das [Wiki](../) werfen
 * [Ein Ticket](https://github.com/PreMiD/PreMiD/issues/new/choose) auf [GitHub](https://github.com/PreMiD/PreMiD) eröffnen
 * Ein Teammitglied in [\#support](https://discord.gg/WvfVZ8T) fragen
-
-  
-
 

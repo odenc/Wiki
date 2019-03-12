@@ -2,7 +2,7 @@
 
 ## Über
 
-**PreMiD** ist ein simples, konfigurierbares Werkzeug, dass dir erlaubt in der **Discord Game Activity** anzuzeigen, was du ansiehst/anhörst. Es unterstützt [viele verschiedene Plattformen](https://wiki.premid.app/support/services) und wird in einem baldigen Update mehrere User, die den gleichen Inhalt anschauen, unterstützen.
+**PreMiD** ist ein simples, konfigurierbares Werkzeug, dass dir erlaubt in der **Discord Game Activity** anzuzeigen, was du ansiehst/anhörst. Es unterstützt [viele verschiedene Plattformen](support/services.md) und wird in einem baldigen Update mehrere User, die den gleichen Inhalt anschauen, unterstützen.
 
 ## Funktionen
 

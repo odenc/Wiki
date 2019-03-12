@@ -21,13 +21,13 @@ Firefox hat unsere Erweiterung aus dem Store entfernt. Du brauchst dir deswegen 
 5. Wähle **"Add-on aus Datei installieren"**
 6. Wähle die kürzlich heruntergeladene Datei aus
 7. Akzeptiere die Installation, indem du auf "**Hinzufügen**" klickst
-8. Installiere das [Programm](https://github.com/PreMiD/PreMiD/wiki/Installation#application), falls du es noch nicht getan hast
+8. Installiere das [Programm](application.md), falls du es noch nicht getan hast
 {% endtab %}
 
 {% tab title="Chrome" %}
 1. Gehe zum [Store](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi?authuser=0&hl=en)
 2. Klicke auf **"Zu Chrome hinzufügen"**
-3. Installiere das [Programm](https://github.com/PreMiD/PreMiD/wiki/Installation#application), falls du es noch nicht getan hast
+3. Installiere das [Programm](application.md), falls du es noch nicht getan hast
 
 ![Chrome Web Store](../.gitbook/assets/add-to-chrome_edited.png)
 {% endtab %}
@@ -35,7 +35,7 @@ Firefox hat unsere Erweiterung aus dem Store entfernt. Du brauchst dir deswegen 
 {% tab title="Opera" %}
 1. Installiere die Erweiterung **"**[**Install Chrome Extensions**](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**"**
 2. Nun installiere die [PreMiD-Erweiterung](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi)
-3. Installiere das [Programm](https://github.com/PreMiD/PreMiD/wiki/Installation#application), falls du es noch nicht getan hast
+3. Installiere das [Programm](application.md), falls du es noch nicht getan hast
 {% endtab %}
 {% endtabs %}
 
