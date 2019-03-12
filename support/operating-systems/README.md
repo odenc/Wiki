@@ -1,6 +1,6 @@
-# Operating systems
+# ระบบปฏิบัติการที่รองรับ \(Supported Operating System\)
 
-| Operating System | Application | Chrome | Firefox |
+| ระบบปฏิบัติการ | แอพพลิเคชัน | Chrome | Firefox |
 | :---: | :---: | :---: | :---: |
 | Windows | ✓ | ✓ | Beta |
 | Linux | Self-build | ✓ | Beta |

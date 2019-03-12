@@ -1,10 +1,10 @@
-# What's PreMiD?
+# PreMiD คืออะไร ?
 
-#### What is PreMiD?
+#### PreMiD คืออะไร ?
 
 {% page-ref page="../../features.md" %}
 
-#### How does PreMiD work?
+#### แล้ว PreMiD ทำงานยังไง ?
 
-Once you installed both extension and the app, they are always contacting with each other and are in touch at any time. For example, when you start watching/listening something on YouTube, YouTube Music, Netflix or other [supported services](https://github.com/PreMiD/PreMiD/wiki/Support#services), the browser extension sends the information of video/song to the PreMiD Desktop client and PreMiD processes it, after that PreMiD sends the information with the correct way to Discord and Discord automatically sets your status. Well, all of these happens in 0.1 second so you don't have to worry about it.
+ก่อนอื่นเลยคุณต้องลงตัวแอพพลิเคชันและส่วนเสริม \(Extension\) พวกมันมีหน้าที่ส่งข้อมูลซึ่งกันและกัน เช่น เมื่อคุณดูหรือฟังอะไรสักอย่างใน YouTube, YouTube Music, Netflix หรือ [บริการที่รองรับอื่นๆ](https://github.com/PreMiD/PreMiD/wiki/Support#services) ตัวส่วนเสริมเบราว์เซอร์จะส่งข้อมูล "วิดีโอ" หรือ  "เพลง" ไปยัง แอพพลิเคชัน PreMiD แล้ว PreMiD จะประมวลผลมัน แล้วหลังจากนั้น               PreMiD ส่งข้อมูลไปยัง Discord แล้ว Discord จะตั้งค่าสถานะของคุณอัติโนมัติ ทุกอย่างจะเกิดขึ้นภายใน 0.1 วินาที ดังนั้นคุณไม่ต้องกังวลเลย !
 

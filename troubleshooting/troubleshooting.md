@@ -1,86 +1,85 @@
-# Troubleshooting
+# การแก้ปัญหา
 
-## **First of all**
+## **ก่อนอื่นเลย**
 
-Make sure you have the [extension](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) **and** the [application](https://github.com/PreMiD/PreMiD/wiki/Installation#application) installed! Tutorials for installation can be found [here](https://github.com/PreMiD/PreMiD/wiki/Installation).  
-You can also try different steps. You don't have to try these in the order we put them here.
+ตรวจสอบให้แน่ใจว่าคุณได้ติดตั้ง[ "ส่วนเสริม"](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) และ ["แอปพลิเคชัน"](https://github.com/PreMiD/PreMiD/wiki/Installation#application) ไว้แล้ว วิธีการติดตั้งสามารถคลิกได้ [ที่นี่](https://github.com/PreMiD/PreMiD/wiki/Installation)  
+วิธีที่เห็นข้างล่างนี้คุณจะทำตามมันเลยก็ได้ หรือทำวิธีต่างจากที่เราไม่ได้ใส่ไว้ก็ได้
 
-## Discord won't show the presence
+## Discord ไม่แสดง Presences
 
-### Be sure Discord is running NOT as administrator
+### ตรวจสอบให้แน่ใจว่า Discord "ไม่ได้"ทำงานในสถานะ Administrator \(Run As Administrator\)
 
-Really important. Discord RPC won't work if you run Discord as an administrator.
+มันสำคัญมาก Discord RPC จะไม่ทำงานถ้าคุณเปิดการทำงาน Discord ในฐานะ Administrator                                               \(ไม่ได้อ่านผิดหรอก มันต้องไม่ Run as Administrator ถึงจะทำงานได้\)
 
-### Make sure you've installed the latest version of PreMiD
+### ตรวจสอบให้แน่ใจว่าคุณติดตั้ง PreMiD เวอร์ชันล่าสุดแล้ว!
 
-You can check that by right-clicking on **'Check for updates'** the PreMiD icon in your taskbar.  
-Otherwise the app will let you know when a new update is available.  
-And you do not have to worry about the extension because it updates itself automatically.
+**คุณสามารถตรวจสอบได้โดยคลิกขวาที่ PreMiD 'ตรวจสอบการอัพเดท' \(Check for updates\) ในทาสก์บาร์**  
+แอปจะบอกให้คุณรู้ว่ามีอัปเดตใหม่มาให้ดาวน์โหลด! แล้วคุณไม่ต้องกังวลเรื่อง "ส่วนเสริม" ตัวส่วนเสริมจะอัปเดตให้อัตโนมัติเอง!
 
 {% hint style="info" %}
-Dev versions and self-injected versions won't update automatically
+เวอร์ชันสำหรับผู้พัฒนาและเวอร์ชันที่ไม่ได้ลงตามที่เราสอนไว้ มันจะไม่อัปเดตอัตโนมัติ!
 {% endhint %}
 
 ![Windows Taskbar](https://github.com/PreMiD/PreMiD/raw/master/wiki/assets/CheckForUpdates.png)
 
-### Make sure that you've enabled Discord Rich Presence in settings
+### ตรวจสอบให้แน่ใจว่าคุณได้เปิด Discord Rich Presence ในตั้งค่าแล้ว
 
 ![Discord Game Activity](https://github.com/PreMiD/PreMiD/raw/master/wiki/assets/GameActivity.png)
 
-### Reload the page
+### รีเฟรชเว็บเพจ
 
-You can press **Strg+R**/**F5** or **CMD+R** on your keyboard too instead of searching for the refresh button.
+คุณสามารถกด **F5/Str+G** หรือ **CMD+R** บนคีย์บอร์ดของคุณแทนที่จะไปหาปุ่ม Refresh
 
-### Restart your browser
+### เริ่มต้นเบราว์เซอร์ใหม่อีกครั้ง
 
-**Alt+F4** does a good job too. \(You have to start your browser again obviously\)
+**Alt+F4** มันก็ทำงานได้เจ๋งเหมือนกันลองกดดูสิ \(มันชัดเจนเลยว่าคุณจำเป็นต้องเปิดเบราว์เซอร์ขึ้นมาใหม่\)
 
-### Disable your addons
+### ปิดการทำงานส่วนเสริมของคุณทั้งหมด
 
-Disable all your addons and see if it works again.  
-If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+ลองปิดส่วนเสริมของคุณทั้งหมด\(ยกเว้น PreMiD\)แล้วลองดูว่ามันใช้งานได้ไหม  
+ถ้าได้ ลองค่อย ๆ เปิดส่วนเสริมของคุณทีละตัวแล้วแจ้งเราว่าส่วนเสริมตัวไหนมันพังการทำงานของ PreMiD!
 
-### Restart PreMiD \(App\)
+### เริ่มต้น PreMiD ใหม่อีกครั้ง \(แอปพลิเคชัน\)
 
 ![Windows Taskbar](https://github.com/PreMiD/PreMiD/raw/master/wiki/assets/Quit.png)
 
-You have to restart PreMiD afterthought.
+หลังจากคุณก็เปิด PreMiD ขึ้นมาใหม่
 
-### Reload/restart Discord
+### เริ่มต้นหรือรีโหลด Discord ใหม่อีกครั้ง
 
-Press **Strg+R** or **CMD+R** on you keyboard or restart Discord manually.
+กด **Strg+R** หรือ **CMD+R** บนคีย์บอร์ดของคุณหรือรีสตาร์ท Discord
 
-### Restarting your computer
+### รีสตาร์ทคอมพิวเตอร์ของคุณ
 
-I hope you know how to restart a computer
+ผมว่าคุณคงรู้ว่ารีสตาร์ทคอมพิวเตอร์มันทำยังไงนะ !
 
-### Reinstalling PreMiD
+### ติดตั้ง PreMiD ใหม่อีกครั้ง
 
-Sometimes there's something wrong with the files... Tutorials for installation can be found [here](https://github.com/PreMiD/PreMiD/wiki/Installation).
+บางครั้งมันเกิดปัญหาที่ไฟล์ขณะติดตั้ง... ขั้นตอนการติดตั้งคลิก [ที่นี่](https://github.com/PreMiD/PreMiD/wiki/Installation).
 
-### Manual removal
+### วิธีการลบแบบอัตโนมือ \(Manual\)
 
 {% tabs %}
 {% tab title="Windows" %}
-1. Go to `C:\Users\USER\AppData\Local` and delete folder `premid`
-2. Go to `C:\Users\USER\AppData\Roaming` and delete folder `PreMiD`
+1. ไปที่ `C:\Users\USER\AppData\Local` แล้วลบโฟลเดอร์ `premid`
+2. ไปที่ `C:\Users\USER\AppData\Roaming` แล้วลบโฟลเดอร์ `PreMiD`
 {% endtab %}
 
 {% tab title="Mac OS" %}
-Go to `YOURDISK:/users/USER/~Library/Application Support` and delete folder `PreMiD`
+ไปที่`YOURDISK:/users/USER/~Library/Application Support` แล้วลบโฟลเดอร์ `PreMiD`
 {% endtab %}
 {% endtabs %}
 
-Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.  
-Or visit the [wiki](../) for more detailed steps.
+เรียก Staff ที่ [Discord ของเรา](https://discord.gg/WvfVZ8T) ถ้าขั้นตอนทั้งหมดใช้งานไม่ได้ผลเลย  
+ ไปที่เว็บไซต์ วิกิ เพื่อดูวิธีแบบละเอียด
 
-## That hasn't solved my problem
+## วิธีเหล่านี้ไม่สามารถแก้ปัญหาได้
 
-You can either:
+คุณสามารถ:
 
-* Take a look at the [wiki](https://github.com/PreMiD/PreMiD/wiki)
-* [Open a issue](https://github.com/PreMiD/PreMiD/issues/new/choose) on [GitHub](https://github.com/PreMiD/PreMiD)
-* Ask a staff member in [\#support](https://discord.gg/WvfVZ8T)
+* ไปที่ วิกิ
+* [แจ้งปัญหา](https://github.com/PreMiD/PreMiD/issues/new/choose)ที่ [GitHub](https://github.com/PreMiD/PreMiD)
+* ถาม Staff ใน [\#support](https://discord.gg/WvfVZ8T) บน Discord ของเรา
 
   
 

@@ -1,31 +1,31 @@
 # Table of contents
 
-* [Home](README.md)
-* [Features](features.md)
+* [หน้าแรก](README.md)
+* [ฟีเจอร์ \(Features\)](features.md)
 * [Changelog](changelog.md)
 
-## About
+## เกี่ยวกับ
 
-* [What's RPC?](about/whats-rpc.md)
-* [What's PreMiD?](about/whats-premid/README.md)
-  * [Example pictures](about/whats-premid/example-pictures.md)
+* [RPC คืออะไร ?](about/whats-rpc.md)
+* [PreMiD คืออะไร ?](about/whats-premid/README.md)
+  * [ภาพตัวอย่าง](about/whats-premid/example-pictures.md)
 
-## Installation
+## การติดตั้ง
 
-* [Extension](installation/extension.md)
-* [Application](installation/application.md)
+* [ส่วนเสริม \(Extension\)](installation/extension.md)
+* [แอปพลิเคชัน](installation/application.md)
 
-## Contributing
+## การสนับสนุน
 
-* [Contributing](contributing/contributing.md)
+* [การสนับสนุน](contributing/contributing.md)
 
-## Troubleshooting
+## การแก้ปัญหา
 
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+* [การแก้ปัญหา](troubleshooting/troubleshooting.md)
 
-## Support
+## การรองรับ
 
-* [Operating systems](support/operating-systems/README.md)
-  * [Additional Browsers](support/operating-systems/additional-browsers.md)
-* [Services](support/services.md)
+* [ระบบปฏิบัติการที่รองรับ \(Supported Operating System\)](support/operating-systems/README.md)
+  * [เบราว์เซอร์เพิ่มเติม](support/operating-systems/additional-browsers.md)
+* [บริการที่รองรับ](support/services.md)
 

@@ -1,40 +1,39 @@
-# Contributing
+# การสนับสนุน
 
-### Contribute as a user
+### สนับสนุนโดยเป็นผู้ใช้
 
-Just by using [PreMiD](https://premid.app/) and be here on our [Discord server](https://discord.gg/WvfVZ8T) is a great pleasure.  
-Thanks for using our service!
+ก็แค่ใช้ [PreMiD](https://premid.app/) และอยู่ใน [Discord ของเรา](https://discord.gg/WvfVZ8T) ก็เป็นที่น่าพอใจแล้ว  
+ขอบคุณที่ใช้โปรแกรมของเรานะ!
 
-### Contribute as a translator
+### สนับสนุนโดยเป็นผู้แปลภาษา
 
-Do you want to see your favourite language in PreMiD? It is easier than it seems:  
-Just click [this link](https://poeditor.com/join/project/Zzl1oOQV5g) and choose you language\(s\) you want to translate.
+คุณอยากเห็นภาษาอื่นใน PreMiD หรือไม่?  มันง่ายกว่าที่คิดอีกนะ:  
+แค่คลิก [ลิงก์นี้](https://poeditor.com/join/project/Zzl1oOQV5g) แล้วเลือกภาษาที่คุณต้องการจะแปล
 
-### Contribute as a donator
+### สนับสนุนโดยเป็นผู้บริจาค
 
-Just type 'donate' and you're ready to go. ![:money\_with\_wings:](https://camo.githubusercontent.com/8c82232d72bdb736fd395fab7b9bf6d01b4a3cca/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663462382e706e67)  
-_Or you_ [_click here_](https://github.com/PreMiD/PreMiD) _and choose a different option._
+แค่พิมพ์ 'donate' แค่นี้คุณก็พร้อมที่จะบริจาคแล้ว ![:money\_with\_wings:](https://camo.githubusercontent.com/8c82232d72bdb736fd395fab7b9bf6d01b4a3cca/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663462382e706e67)  
+_หรือ_ [_คลิกที่นี่_ ](https://github.com/PreMiD/PreMiD)_เพื่อเลือกตัวเลือกอื่น_
 
-### Contribute as a Patreon
+### สนับสนุนโดยเป็นพาเทรออน!
 
-OwO You're about to be a [Patreon](https://www.patreon.com/Timeraa). OwO
+OwO คุณอยากจะเป็น [Patreon](https://www.patreon.com/Timeraa) งั้นรึ! OwO
 
-### Contribute as a designer
+### สนับสนุนโดยเป็นดีไซน์เนอร์
 
-You are well known with Photoshop or similar programs? Maybe you are talent we are looking for. Just ping an Admin to start."
+คุณคุ้นเคยกับการใช้งาน Photoshop หรือโปรแกรมที่ใกล้เคียงงั้นหรือ? นี่อาจเป็นความสามารถที่คุณกำลังมองหา! เรียกแอดมินเพื่อเริ่มงานนี้!
 
-### Contribute as a contributor
+### สนับสนุนโดยเป็นผู้สร้าง
 
-Now it's your chance to be a part of [PreMiD](https://premid.app/)! You can add your own presences or even code other things.  
-Just code something and open a pull request on [GitHub](https://github.com/PreMiD/PreMiD).  
-Click [here](https://github.com/PreMiD/PreMiD/blob/stable/CONTRIBUTING.md) to see our contributing guidelines.
+นี่เป็นโอกาสที่คุณจะได้เป็นส่วนหนึ่งของ [PreMiD](https://premid.app/)! คุณสามารถเพิ่ม Presence ของคุณหรือแม้แต่โค้ดอย่างอื่นก็ได้  
+แค่เขียนโค้ดสักอย่างไว้แล้วกด "Pull request" ใน [GitHub](https://github.com/PreMiD/PreMiD).
 
-### Contribute as a moderator
+### สนับสนุนโดยเป็นโมเดอเรเตอร์ \(MODerator\)
 
-The applications are currently closed but we'll search for more if we get more users.  
-Last date we accepted moderators into our team: 12/24/2018"
+แอปพลิเคชันในส่วนนี้ตอนนี้ปิดอยู่ แต่พวกเราจะหามาเพิ่มถ้ามีผู้ใช้งานมากกว่านี้  
+วันที่ล่าสุดที่เรารับโมเดอเรเตอร์คือวันที่ 24 ธ.ค. 2560
 
-### ~~Contribute as a administrator~~
+### ~~สนับสนุนโดยการเป็นผู้บริหาร~~
 
-"_You can't_
+"_ไม่ ไม่มีวันหรอก ฮะฮ่า!_
 

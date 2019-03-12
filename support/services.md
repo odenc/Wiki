@@ -1,10 +1,10 @@
-# Services
+# บริการที่รองรับ
 
 {% hint style="info" %}
-Want to request a support for other services? Open an [Issue](https://github.com/Timeraa/PreMiD/issues/new?template=service_request.md)!
+อยากให้รองรับกับบริการเว็บไซต์อื่นด้วยงั้นหรือ? ขอได้ที่ [แจ้งปัญหา!](https://github.com/Timeraa/PreMiD/issues/new?template=service_request.md)
 {% endhint %}
 
-| Video | Music | Anime |
+| วิดีโอ | เพลง | การ์ตูน |
 | :--- | :--- | :--- |
 | YouTube | YouTube Music | Crunchyroll |
 | Netflix | SoundCloud | Anime4You |
@@ -12,7 +12,7 @@ Want to request a support for other services? Open an [Issue](https://github.com
 | Rabb.it |  |  |
 
 {% hint style="info" %}
-More available on our soon releasing presence store for free!
+จะมีบริการรองรับเพิ่มในเร็ว ๆ นี้ คุณสามารถหาได้ใน "ร้านค้า Presence" \(และที่สำคัญมันฟรี!\)
 {% endhint %}
 
 

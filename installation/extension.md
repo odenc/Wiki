@@ -1,43 +1,44 @@
-# Extension
+# ส่วนเสริม \(Extension\)
 
 {% hint style="warning" %}
- You have to install the extenstion **and** the application to get it working correctly!
+ คุณจำเป็นต้องติดตั้งทั้ง "แอปพลิเคชัน" และ "ส่วนเสริม" เพื่อให้การทำงานทำได้ถูกต้อง!
 {% endhint %}
 
-### Extension
+### ส่วนเสริม
 
-Installation of extension is the easiest part! So, just click on the your browser's name and follow the introductions.
+ส่วนเสริมนี่เป็นส่วนที่ติดตั้งง่ายที่สุดในโลกเลยล่ะ! ดังนั้นกดกดเลือก "เบราว์เซอร์' ของคุณและอ่านวิธีตามข้างล่างนี้เลย
 
 {% tabs %}
 {% tab title="Firefox" %}
 {% hint style="info" %}
-Firefox removed our Extension from the addon store. Don't worry we will try to revive it from the dead as we plan to upload it to our own servers in the next update! For now you can either wait or follow the instructions below.
+Firefox ได้ลบส่วนเสริมของเราออกไปแล้ว ดังนั้นไม่ต้องกังวลเราจะพยายามชุบชีวิตมันขึ้นมาตามที่เราวางแผนไว้ เพื่ออัปโหลดไว้ที่เว็บไซต์ของเราในเร็ว ๆ นี้ ในตอนนี้คุณจะรอหรือทำตามวิธีตามด้านล่างนี้ได้เลย!
 {% endhint %}
 
 
 
-1. Go to the [releases tab](https://github.com/PreMiD/PreMiD/releases)
-2. Download [premid-1.3.1.2-fx.xpi](https://github.com/PreMiD/PreMiD/releases)
-3. Got to `about:addons`
-4. Click on the little gear symbol on the upper right hand side
-5. Choose **"Install add-on from file"**
-6. Select the file you downloaded recently
-7. Accept the installation by clicking on **"Add"**
-8. Install the [application](https://github.com/PreMiD/PreMiD/wiki/Installation#application) if you haven't already
+1. ไปที่ [ส่วนของ release](https://github.com/PreMiD/PreMiD/releases)
+2. ดาวน์โหลด [premid-1.3.1.2-fx.xpi](https://github.com/PreMiD/PreMiD/releases)
+3. ไปที่ `about:addons`
+4. กด สัญลักษณ์รูปฟันเฟือง ที่ด้านขวาบน
+5. เลือก "**ติดตั้งส่วนเสริมจากไฟล์...**" \(Install add-on from file**\)**
+6. เลือกไฟล์ที่ดาวน์โหลดมา
+7. ยอมรับการติดตั้งโดยการกด **"เพิ่ม"** \(Add\)
+8. ติดตั้งตัว[**แอพลิเคชัน**](https://github.com/PreMiD/PreMiD/wiki/Installation#application)ถ้าหากคุณยังไม่มีมัน
 {% endtab %}
 
 {% tab title="Chrome" %}
-1. Go to the [store page](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi?authuser=0&hl=en)
-2. Click on **"Add to Chrome"**
-3. Install the [application](https://github.com/PreMiD/PreMiD/wiki/Installation#application) if you haven't already
+1. ไปที่ [หน้าสโตร์](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi?authuser=0&hl=en
+   )
+2. คลิกที่ **"เพิ่มเข้าใน Chrome" \(Add to Chrome\)**
+3. ติดตั้งแอปพลิเคชันถ้าหากคุณยังไม่มี
 
-![Chrome Web Store](../.gitbook/assets/add-to-chrome_edited.png)
+![&#xE2B;&#xE19;&#xE49;&#xE32;&#xE2A;&#xE42;&#xE15;&#xE23;&#xE4C; Chrome](../.gitbook/assets/add-to-chrome_edited.png)
 {% endtab %}
 
 {% tab title="Opera" %}
-1. Install the extension called **"**[**Install Chrome Extensions**](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**"**
-2. Now install the [PreMiD extension](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi)
-3. Install the [application](https://github.com/PreMiD/PreMiD/wiki/Installation#application) if you haven't already
+1. ติดตั้งส่วนเสริมชื่อว่า **"**[**Install Chrome Extensions**](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**"**
+2. ติดตั้ง [ส่วนเสริมของ PreMiD](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi)
+3. ติดตั้ง [แอปพลิเคชัน](https://github.com/PreMiD/PreMiD/wiki/Installation#application) ถ้าหากคุณยังไม่มี
 {% endtab %}
 {% endtabs %}
 

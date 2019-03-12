@@ -1,13 +1,13 @@
-# Example pictures
+# ภาพตัวอย่าง
 
-#### Examples
+#### ตัวอย่าง
 
-This is what you listen on YouTube:
+เมื่อคุณฟังเพลงบน Youtube \(หรือวิดีโออื่น ๆ ก็ได้นะ\)
 
 ![YouTube](../../.gitbook/assets/yt_example.PNG)
 
   
-And this is what happens on your profile when PreMiD is running and able to get information from your browser: 
+และนี่คือสิ่งที่เกิดขึ้นบนสถานะของคุณ เมื่อ PreMiD ทำงานอยู่ และสามารถรับข้อมูลจากเบราว์เซอร์ของคุณ
 
 ![Discord RPC](../../.gitbook/assets/discord_rpc_example2.PNG)
 
