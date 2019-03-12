@@ -2,7 +2,7 @@
 
 ## **Primeiramente**
 
-Tenha a certeza que você tem a [extensão](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) **e o** [aplicativo](https://github.com/PreMiD/PreMiD/wiki/Installation#application) instalado! Tutoriais de instalação podem ser achados [aqui](../installation/extension.md) e [aqui](../installation/application.md).  
+Tenha a certeza que você tem a [extensão](../installation/extension.md) **e o** [aplicativo](../installation/application.md) instalado!  
 Você também pode tentar etapas diferentes. Você não precisa tentar isso na ordem que colocamos.
 
 ## Discord não está mostrando a presença
@@ -56,7 +56,7 @@ Eu espero que você saiba como reiniciar um computador.
 
 ### Reinstalando o PreMiD
 
-Algumas vezes tem alguma coisa de errada com os arquivos... Tutoriais de instalação podem ser achados [aqui](../installation/extension.md) e [aqui](../installation/application.md).
+Algumas vezes tem alguma coisa de errada com os arquivos... Tutoriais de instalação podem ser achados [aqui](../installation/application.md).
 
 ### Remoção manual
 

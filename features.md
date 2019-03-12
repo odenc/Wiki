@@ -2,7 +2,7 @@
 
 ## Sobre
 
-**PreMiD** é um simples e configurável que permite você mostre o que você está assistindo/ouvindo em seu **status de jogando** do Discord. Ele suporta [diferentes plataformas](https://wiki.premid.app/v/brazilian-portuguese/support/services), e vai suportar vários usuários assistindo o mesmo conteúdo simultaneamente numa breve atualização.
+**PreMiD** é um simples e configurável que permite você mostre o que você está assistindo/ouvindo em seu **status de jogando** do Discord. Ele suporta [diferentes plataformas](support/services.md), e vai suportar vários usuários assistindo o mesmo conteúdo simultaneamente numa breve atualização.
 
 ## Recursos
 

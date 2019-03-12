@@ -26,13 +26,13 @@ Finalmente, se você instalou tudo corretamente, você pode começar a usar o Pr
 {% endtab %}
 
 {% tab title="Mac OS" %}
-1. Instale a ultima versão do [aplicativo](https://github.com/Timeraa/YT-Presence/releases/latest)
+1. Instale a ultima versão do [aplicativo](https://premid.app/downloads)
 2. Abra o arquivo **.dmg** baixado
 3. Segure o **PreMiD** na sua pasta de **Aplicativos** 
 4. Abra o seu Launchpad ou aperte F4
 5. Abra o **PreMiD**
 6. Aperte **"Permitir"** se uma janela aparecer
-7. Instale a [extensão](https://github.com/PreMiD/PreMiD/wiki/Installation#extension) se você ainda não fez
+7. Instale a [extensão](extension.md) se você ainda não fez
 {% endtab %}
 
 {% tab title="Linux" %}

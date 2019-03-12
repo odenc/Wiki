@@ -23,13 +23,13 @@ O Firefox removeu nossa extensão da loja de addons. Não se preocupe, vamos ten
 5. Escolha "Instalar de um arquivo..."
 6. Selecione o arquivo que você baixou recentemente
 7. Aceite a instalação clicando em "**Adicionar**"
-8. Instale o [aplicativo ](https://github.com/PreMiD/PreMiD/wiki/Installation#application)se você ainda não tiver
+8. Instale o [aplicativo ](application.md)se você ainda não tiver
 {% endtab %}
 
 {% tab title="Chrome" %}
 1. Vá para a [página da loja](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi?authuser=0&hl=en)
 2. Clique em "**Usar no Chrome**"
-3. Instale o [aplicativo](https://github.com/PreMiD/PreMiD/wiki/Installation#application) se você ainda não tiver
+3. Instale o [aplicativo](application.md) se você ainda não tiver
 
 ![Chrome Web Store](../.gitbook/assets/chromewebstore.png)
 {% endtab %}
@@ -37,7 +37,7 @@ O Firefox removeu nossa extensão da loja de addons. Não se preocupe, vamos ten
 {% tab title="Opera" %}
 1. Instale a extensão chamada "[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)"
 2. Agora instale a extensão do [PreMiD](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi), clicando no **"Usar no Opera"**
-3. Instale o [aplicativo](https://github.com/PreMiD/PreMiD/wiki/Installation#application) se você ainda não tiver
+3. Instale o [aplicativo](application.md) se você ainda não tiver
 {% endtab %}
 {% endtabs %}
 
