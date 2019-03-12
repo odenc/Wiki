@@ -26,7 +26,7 @@ Finalement, si vous avez tout installé correctement, vous pouvez commencer à u
 {% endtab %}
 
 {% tab title="Mac OS" %}
-1. Téléchargez la dernière version de [l'application](https://github.com/Timeraa/YT-Presence/releases/latest)
+1. Téléchargez la dernière version de [l'application](https://premid.app/downloads)
 2. Ouvrez le fichier .dmg téléchargé
 3. Glissez **PreMiD** __dans votre dossier **d'applications**
 4. Ouvrez votre Launchpad ou appuyez sur F4

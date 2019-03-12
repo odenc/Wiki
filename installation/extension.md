@@ -23,7 +23,7 @@ Firefox a retiré notre extension de la liste des extensions. Ne vous inquiétez
 5. Choose **"Install add-on from file"**
 6. Select the file you downloaded recently
 7. Accept the installation by clicking on **"Add"**
-8. Install the [application](https://github.com/PreMiD/PreMiD/wiki/Installation#application) if you haven't already
+8. Install the [application](application.md) if you haven't already
 {% endtab %}
 
 {% tab title="Chrome" %}
