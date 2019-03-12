@@ -77,7 +77,6 @@ Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none 
 
 You can either:
 
-* Take a look at the [wiki](../)
 * [Open a issue](https://github.com/PreMiD/PreMiD/issues/new/choose) on [GitHub](https://github.com/PreMiD/PreMiD)
 * Ask a staff member in [\#support](https://discord.gg/WvfVZ8T)
 
