@@ -2,11 +2,11 @@
 
 #### What is PreMiD?
 
-**PreMiD** is a simple, configurable utility that allows you to show what you're watching/listening in your Discord **now playing** status. It supports [many different platforms](https://github.com/PreMiD/PreMiD/wiki/Support#services), and will support multiple users watching the same content simultaneously in an upcoming update. You can also get more information about RPCs and how they work, just scroll a little down.
+{% page-ref page="../../features.md" %}
 
 #### How does PreMiD work?
 
-Once you installed both extension and the app, they are always contacting with each other and are in touch at any time. For example, when you start watching/listening something on YouTube, YouTube Music, Netflix or other [supported services](https://github.com/PreMiD/PreMiD/wiki/Support#services), the browser extension sends the information of video/song to the PreMiD Desktop client and PreMiD processes it, after that PreMiD sends the information with the correct way to Discord and Discord automatically sets your status. Well, all of these happens in 0.1 second so you don't have to worry about it.
+Once you installed both extension and the app, they are always contacting with each other and are in touch at any time. For example, when you start watching/listening something on YouTube, YouTube Music, Netflix or other [supported services](../../aldam/services.md), the browser extension sends the information of video/song to the PreMiD Desktop client and PreMiD processes it, after that PreMiD sends the information with the correct way to Discord and Discord automatically sets your status. Well, all of these happens in 0.1 second so you don't have to worry about it.
 
 {% page-ref page="../../features.md" %}
 

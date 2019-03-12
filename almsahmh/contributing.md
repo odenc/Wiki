@@ -1,7 +1,5 @@
 # المساهمة
 
-
-
 ### Contribute as a user
 
 Just by using [PreMiD](https://premid.app/) and be here on our [Discord server](https://discord.gg/WvfVZ8T) is a great pleasure.  
