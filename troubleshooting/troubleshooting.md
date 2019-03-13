@@ -70,14 +70,14 @@
 {% endtab %}
 {% endtabs %}
 
-เรียก Staff ที่ [Discord ของเรา](https://discord.gg/WvfVZ8T) ถ้าขั้นตอนทั้งหมดใช้งานไม่ได้ผลเลย  
- ไปที่เว็บไซต์ วิกิ เพื่อดูวิธีแบบละเอียด
+ถาม Staff ที่ [Discord ของเรา](https://discord.gg/WvfVZ8T) ถ้าขั้นตอนทั้งหมดใช้งานไม่ได้ผลเลย  
+ ไปที่เว็บไซต์ [วิกิ](https://wiki.premid.app/) เพื่อดูวิธีแบบละเอียด
 
 ## วิธีเหล่านี้ไม่สามารถแก้ปัญหาได้
 
 คุณสามารถ:
 
-* ไปที่ วิกิ
+* ไปที่ [วิกิ](https://wiki.premid.app/)
 * [แจ้งปัญหา](https://github.com/PreMiD/PreMiD/issues/new/choose)ที่ [GitHub](https://github.com/PreMiD/PreMiD)
 * ถาม Staff ใน [\#support](https://discord.gg/WvfVZ8T) บน Discord ของเรา
 

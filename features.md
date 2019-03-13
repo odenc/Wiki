@@ -9,7 +9,7 @@
 * รวมกันปรับความเข้ากันได้กับ API ของ Discord Library \(Integrating\)
 * รองรับการ หยุด/เล่น ผ่านปุ่มคีย์บอร์ดของคุณ \(Media Control\)
 * เมื่อคุณไม่อยู่ ระบบจะล้าง Presence ของคุณใน 1 นาที! \(Inactivity\)
-* รองรับ **YouTube, YouTube Music, Netflix, SoundCloud** และอีกมากมายจะมาในเร็ว ๆ นี้!
+* รองรับ **YouTube, Twitch, Netflix, SoundCloud** และอีกมากมายจะมาในเร็ว ๆ นี้!
 * ระบบปาร์ตี้ดูพร้อมกันจะมาในเร็ว ๆ นี้
 
 {% page-ref page="about/whats-premid/" %}

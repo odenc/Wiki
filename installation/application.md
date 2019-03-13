@@ -1,7 +1,7 @@
 # แอปพลิเคชัน
 
 {% hint style="warning" %}
- คุณจำเป็นต้องติดตั้งทั้ง "แอพพลิเคชัน" และ "ส่วนเสริม" เพื่อให้การทำงานทำได้ถูกต้อง!
+ คุณจำเป็นต้องติดตั้งทั้ง "แอปพลิเคชัน" และ "ส่วนเสริม" เพื่อให้การทำงานทำได้ถูกต้อง!
 {% endhint %}
 
 ### แอปพลิเคชัน
@@ -32,12 +32,12 @@
 4. เปิดลันช์แพด หรือกด F4
 5. เปิด PreMiD
 6. กด **"ยินยอม"** หากมีหน้าต่างขึ้นมา
-7. ติดตั้ง [ส่วนเสริม](extension.md) หากคุณยังไม่ได้ติดตั้ง
+7. ติดตั้ง [**ส่วนเสริม**](extension.md) หากคุณยังไม่ได้ติดตั้ง
 {% endtab %}
 
 {% tab title="Linux" %}
 {% hint style="info" %}
-ถ้าคุณอย่างพูดคุยเกี่ยวกับ การสนับสนุด GNU/Linux  ไปที่: [https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
+ถ้าคุณอย่างพูดคุยเกี่ยวกับ การสนับสนุน GNU/Linux  ไปที่: [https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
 {% endhint %}
 
 1. โคลน repository: `git clone https://github.com/Timeraa/PreMiD.git`
