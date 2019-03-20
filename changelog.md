@@ -1,92 +1,92 @@
 # Changelog
 
-## 1.2.0.1-pre · 21-January-2019
+## 1.2.0.1-pre · 21-Janeiro-2019
 
-### Removed
+### Removido
 
-* Firefox removed our extension from the store ;\(
+* Firefox removeu nossa extensão da loja ;\(
 
-### How to install
+### Como instalar
 
-*  Look up the updated instructions [here](installation/extension.md)
+*  Procure as instruções atualizadas [aqui](installation/extension.md) 
 
-## 1.2 · 2-November-2018
+## 1.2 · 2-Novembro-2018
 
-### Changes
+### Mudanças
 
-* A lot of rewrites... Thats it for the app. Update needed!
-* A lot of bug fixes
-* App should now start 50% faster
+* Muitas reescritas... Isso é para o aplicativo. Atualização necessária!
+* Muitos corrigimentos de bugs
+* O aplicativo agora deverá abrir 50% mais rápido
 
-## 1.1 · 16-Oktober-2018
+## 1.1 · 16-Outubro-2018
 
-### Added
+### Adicionado
 
-* Netflix Support
-* Twitch Support
-* SoundCloud Support
+* Suporte para o Netflix 
+* Suporte para a Twitch
+* Suporte para o SoundCloud
 
-### Changes
+### Mudanças
 
-* Small rewrites in the presences
-* App should now start 30% faster
-* Lots of bug fixes
+* Pequenas reescritas na presenças
+* O aplicativo agora deverá abrir 30% mais rápido
+* Muitos bug arrumados
 
-## 1.0 · 7-Oktober-2018
+## 1.0 · 7-Outubro-2018
 
-### Added
+### Adicionado
 
-* Media control support \(Play/pause, next track, previous track\)
-* YouTube Presence now disappears if playback is paused. \(after 1 minute\)
-* Preferences Panel
-* Update Notifications should now work on Windows
-* YouTube now shows how much time is left on a video
-* Update window
+* Suporte para controle de mídia\(Reproduzir/pausar, próxima faixa, faixa anterior\)
+* A Presença do YouTube agora desaparece se a reprodução for pausada. \(depois de 1 minuto\)
+* Painel de preferencias
+* Notificações de atualizações agora deverão funcionar no Windows 
+* O Youtube agora mostra quanto tempo sobrando num video
+* Janela de atualização
 
-### Changes
+### Mudanças
 
-* YouTube Music core rewritten completely
-* YouTube core rewritten completely
-* YouTube Music Presence now shows the last author like this:
-  * Timeraa, Timeraa and Timeraa
-* YouTube Music Presence is now faster in detecting changes
-* Reduced Discord API calls
-* YouTube Presence should now start 50% faster
+* Núcleo do YouTube Music reescrito completamente
+* Núcleo do YouTube reescrito completamente
+* O YouTube Music Presence agora mostra o último autor assim:
+  * Timeraa, Timeraa e Timeraa
+* O Youtube Music agora é rápido em detectar mudanças
+* chamadas de API do Discord reduzidos
+* Youtube Presence agora deverá começar 50% mais rápido
 
-## 0.3-Alpha · 25-July-2018
+## 0.3-Alpha · 25-Julho-2018
 
-### Added
+### Adicionado
 
-* Added an option to enable/disable title in menubar \(Mac OS\)
-* Installer \(Mac OS only atm, sorry Windows users :I\)
+* Adicionado uma opção de habilitar/desabilitar o titulo na barra de menus \(Mac OS\)
+* Instalador \(Só para Mac OS até agora, desculpe usuários de Windows :I\)
 
-### Changes
+### Mudanças
 
-* Speed improvements
-* Code organisation
-* Changed message when Chrome connected \(Mac OS\)
+* Melhorias de velocidade
+* Organização do código
+* Mensagem alterada quando o Chrome está ligado \(Mac OS\)
 
-## 0.2-Alpha · 10-July-2018
+## 0.2-Alpha · 10-Julho-2018
 
-### Added
+### Adicionado
 
-* Support for YouTube
+* Suporte parar YouTube
 
-### Changes
+### Mudanças
 
-* Organisation of code
-* Speed improvements
-* Extension improvements
+* Organização do código 
+* Melhorias de velocidade
+* Melhorias na extensão
 
-## 0.1-Alpha · 7-July-2018
+## 0.1-Alpha · 7-Julho-2018
 
-### Added
+### Adicionado
 
-* Support for YouTube Music
-* Update Notification \(Mac OS only atm\)
-* Option to turn it off \(See menubar/tab bar\)
-* Automatically starts on system boot \(Can only be disabled through Settings/Taskmanager atm\)
-* Automatically clears Presence if Chrome/YouTube not found
+* Suporte para o YouTube Music
+* Notificação de atualização \(só para Mac OS até o momento\)
+* Opção para desliga-lo\(Veja a barra de menus/barra de abas\)
+* Inicia automaticamente na inicialização do sistema \(Cum só pode ser desativado através das Configurações/Gerenciador de tarefas até o momento\)
+* Limpa automaticamente a presença se o Chrome/YouTube não for encontrado
 
 
 
