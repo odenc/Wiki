@@ -1,16 +1,16 @@
 # المميزات
 
-## About
+## مقدمة
 
-PreMiD هي أداة بسيطة وقابلة للتغيير تسمح لك بإظهار ما تشاهده / تستمع إليه في حساب Discord الخاص بك. وهو [يدعم العديد من المواقع](aldam/services.md) المختلفة، وسوف يدعم مزامنة محتوى المواقع في تحديث قادم حتى تتمكن من مشاهدة الأفلام إلخ مع أصدقائك في آن واحد.
+بريميد هي أداة بسيطة وقابلة للتغيير تسمح لك **بإظهار ما تشاهده / تستمع إليه** في حساب ديسكورد الخاص بك. وهي [تدعم العديد من المواقع](https://wiki.premid.app/support/services) المختلفة، وسوف تدعم مزامنة محتوى المواقع في تحديث قادم حتى تتمكن من مشاهدة الأفلام مع أصدقائك في آن واحد
 
-## Features
+## المميزات
 
-* Integrates with Discord's official Rich Presence API library.
-* Supports your keyboard's **Media Control** function keys.
-* Automatically clears your current presence after 1 minute of inactivity.
-* Supports **YouTube, YouTube Music, Netflix, SoundCloud** and many more to come.
-* _Watch parties and more are coming soon!_
+* تتكامل مع بيئة برمجة التطبيقات الخاصة بديسكورد
+* تدعم مفاتيح **التحكم في الوسائط** بلوحة مفاتيح حاسوبك
+* يلغى تلقائيا 1 دقيقة من عدم النشاط
+* ...تدعم **يوتيوب، اغاني يوتيوب، نتفليكس، ساوندكلاود** و المزيد
+* _!حفلات المشاهدة قريبا_
 
 {% page-ref page="mqdmh/whats-premid/" %}
 
