@@ -1,12 +1,12 @@
 # PreMiD ما هو
 
-#### What is PreMiD?
+#### مقدمة
 
-**PreMiD** is a simple, configurable utility that allows you to show what you're watching/listening in your Discord **now playing** status. It supports [many different platforms](https://github.com/PreMiD/PreMiD/wiki/Support#services), and will support multiple users watching the same content simultaneously in an upcoming update. You can also get more information about RPCs and how they work, just scroll a little down.
+بريميد هي أداة بسيطة وقابلة للتغيير تسمح لك **بإظهار ما تشاهده / تستمع إليه** في حساب ديسكورد الخاص بك. وهي [تدعم العديد من المواقع](https://wiki.premid.app/support/services) المختلفة، وسوف تدعم مزامنة محتوى المواقع في تحديث قادم حتى تتمكن من مشاهدة الأفلام مع أصدقائك في آن واحد
 
-#### How does PreMiD work?
+#### كيف تعمل ؟
 
-Once you installed both extension and the app, they are always contacting with each other and are in touch at any time. For example, when you start watching/listening something on YouTube, YouTube Music, Netflix or other [supported services](https://github.com/PreMiD/PreMiD/wiki/Support#services), the browser extension sends the information of video/song to the PreMiD Desktop client and PreMiD processes it, after that PreMiD sends the information with the correct way to Discord and Discord automatically sets your status. Well, all of these happens in 0.1 second so you don't have to worry about it.
+بعد تحميلك للتطبيق و الملحق، سوف يتصلا ببعضهما البعض طيلة الوقت اتوماتيكيآ. فمثلآ، عندما تشاهد فيديوهات يوتيوب او اي [موقع مدعم](https://wiki.premid.app/support/services)، ملحق المتصفح سوف يرسل معلومات الفيديو إلى التطبيق ليتم تجهيزه ثم يرسله إلى ديسكورد الذي بدوره يغير وضع مشاهدتك، كل هذا يحدث تلقائيآ في جزء من الثانية.
 
 {% page-ref page="../../features.md" %}
 
