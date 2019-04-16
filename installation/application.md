@@ -1,12 +1,12 @@
 # Programm
 
 {% hint style="warning" %}
- Du musst die Erweiterung **und** das Programm installieren, damit es korrekt funktioniert!
+ Du musst die Browsererweiterung **und** das Programm installieren, damit es korrekt funktioniert!
 {% endhint %}
 
 ### Programm
 
-Installieren der Erweiterung ist sehr wichtig, da die Erweiterung allein nichts tun kann und das Programm braucht, um Richt Presence auf deinem Profil zu aktivieren! Folge einfach dieser Anleitung und installiere es.
+Das Installieren der Erweiterung ist sehr wichtig, da das Programm allein nichts tun kann und die Browsererweiterung benötigt, um Rich Presence auf deinem Profil zu anzuzeigen! Folge einfach dieser Anleitung und installiere es.
 
 {% tabs %}
 {% tab title="Windows" %}
@@ -18,11 +18,11 @@ Gehe zur Download-Abteilung, indem du [hier](https://premid.app/downloads) klick
 
 ![SmartScreen warning](https://camo.githubusercontent.com/686b1d78d5232ed8a13cfd484ef59bccc83a2e02/68747470733a2f2f626c6f627363646e2e676974626f6f6b2e636f6d2f76302f622f676974626f6f6b2d32383432372e61707073706f742e636f6d2f6f2f6173736574732532462d4c4e4c736b56596d346a5670684d44597474502532462d4c576c4d6b586f626b504b34517344414733622532462d4c576c576d5179764f6e523138704246564e71253246323031392d30312d32315f32302d34382d31342e706e673f616c743d6d6564696126746f6b656e3d34313331353933322d383733392d346539662d393835642d663364633066383836386361)
 
-Das Programm wird sich nun automatisch selbst installieren. Jetzt musst du nur noch warten bis es fertig ist. Das Programm wird automatisch starten, du musst nichts tun.
+Das Programm wird sich nun automatisch von alleine installieren. Jetzt musst du nur noch warten bis es fertig ist. Das Programm wird automatisch starten, du musst also nichts tun.
 
 ![SmartScreen warning](https://camo.githubusercontent.com/abe646c205b9fef9f6dd07409d2bccc2fe985828/68747470733a2f2f7468652d706572736f6e2d756e6465722d746869732d6d6573736167652e69732d696e736964652e6d652f4e68486a353349642e706e67)
 
-Letztendlich, wenn du alles richtig gemacht hast, kannst du starten PreMiD zu nutzen, besuche einfach YouTube oder andere Services und starte etwas zu schauen/hören!
+Wenn du nun alles richtig gemacht hast, kannst du starten PreMiD zu nutzen, besuche einfach YouTube oder andere Services und starte etwas zu schauen/hören!
 {% endtab %}
 
 {% tab title="Mac OS" %}

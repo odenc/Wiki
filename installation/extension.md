@@ -1,7 +1,7 @@
 # Erweiterung
 
 {% hint style="warning" %}
- Du musst die Erweiterung **und** das Programm installieren, damit es korrekt funktioniert!
+ Du musst die Browsererweiterung **und** das Programm installieren, damit es korrekt funktioniert!
 {% endhint %}
 
 ### Erweiterung
