@@ -1,84 +1,84 @@
-# Solução de problemas
+# Troubleshooting
 
-## **Primeiramente**
+## **First of all**
 
-Tenha a certeza que você tem a [extensão](../installation/extension.md) **e o** [aplicativo](../installation/application.md) instalado!  
-Você também pode tentar etapas diferentes. Você não precisa tentar isso na ordem que colocamos.
+Make sure you have the [extension](../installation/extension.md) **and** the [application](../installation/application.md) installed!  
+You can also try different steps. You don't have to try these in the order we put them here.
 
-## Discord não está mostrando a presença
+## Discord won't show the presence
 
-### Tenha certeza que o Discord NÃO está rodando como administrador
+### Be sure Discord is running NOT as administrator
 
-Muito importante. Discord RPC não funciona se você roda o Discord como administrador.
+Really important. Discord RPC won't work if you run Discord as an administrator.
 
-### Tenha certeza que você instalou a versão mais recente do PreMiD
+### Make sure you've installed the latest version of PreMiD
 
-Você pode checar isso clicando no botão direito no **'Check for updates'** no ícone do PreMiD na sua taskbar.  
-Caso contrário, o app vai te avisar quando uma nova atualização está disponível.  
-E você não precisa se preocupar sobre a extensão porque ele se atualiza automaticamente.
+You can check that by right-clicking on **'Check for updates'** the PreMiD icon in your taskbar.  
+Otherwise the app will let you know when a new update is available.  
+And you do not have to worry about the extension because it updates itself automatically.
 
 {% hint style="info" %}
-Versões de desenvolvimento e versões self-injected não atualizaram automaticamente.
+Dev versions and self-injected versions won't update automatically
 {% endhint %}
 
-![Windows Taskbar](https://github.com/PreMiD/PreMiD/raw/master/wiki/assets/CheckForUpdates.png)
+![Windows taskbar](../.gitbook/assets/checkforupdates.png)
 
-### Tenha certeza que você ativou o Discord Rich Presence nas configurações
+### Make sure that you've enabled Discord Rich Presence in settings
 
-![Discord Game Activity](../.gitbook/assets/gameactivitybr.png)
+![Discord Game Activity](../.gitbook/assets/gameactivity_edited.png)
 
-### Recarregue a página
+### Reload the page
 
-Você pode apertar **Strg+R**/**F5** ou **CMD+R** no seu teclado em vez de pesquisar o botão de recarregar.
+You can press **Strg+R**/**F5** or **CMD+R** on your keyboard too instead of searching for the refresh button.
 
-### Reinicie seu navegador
+### Restart your browser
 
-**Alt+F4** faz um bom trabalho também. \(Você obviamente tem que abrir o navegador de novo\)
+**Alt+F4** does a good job too. \(You have to start your browser again obviously\)
 
-### Desative seus addons
+### Disable your addons
 
-Desative todos os seus addons e veja se vai funcionar de novo.  
-Se sim, tente ativar seus addons um por um e conte qual addon quebrou o PreMiD.
+Disable all your addons and see if it works again.  
+If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
 
-### Reinicie o PreMiD \(App\)
+### Restart PreMiD \(App\)
 
-![Windows Taskbar](https://github.com/PreMiD/PreMiD/raw/master/wiki/assets/Quit.png)
+![Windows taskbar](../.gitbook/assets/exit.png)
 
-Você tem que reiniciar o PreMiD.
+You have to restart PreMiD afterthought.
 
-### Recarregar/reiniciar o Discord
+### Reload/restart Discord
 
-Aperte **Strg+R** ou **CMD+R** no seu teclado ou reinicie o Discord manualmente.
+Press **Strg+R** or **CMD+R** on you keyboard or restart Discord manually.
 
-### Reiniciando o computador
+### Restarting your computer
 
-Eu espero que você saiba como reiniciar um computador.
+I hope you know how to restart a computer.
 
-### Reinstalando o PreMiD
+### Reinstalling PreMiD
 
-Algumas vezes tem alguma coisa de errada com os arquivos... Tutoriais de instalação podem ser achados [aqui](../installation/application.md).
+Sometimes there's something wrong with the files... Tutorials for installation can be found [here](../installation/application.md).
 
-### Remoção manual
+### Manual removal
 
 {% tabs %}
 {% tab title="Windows" %}
-1. Vá para o `C:\Users\USER\AppData\Local` e delete a pasta `premid`
-2. Vá para o `C:\Users\USER\AppData\Roaming` e delete a pasta `PreMiD`
+1. 1. Go to `C:\Users\USER\AppData\Local` and delete the folder `premid`
+2. 1. Go to `C:\Users\USER\AppData\Roaming` and delete the folder`PreMiD`
 {% endtab %}
 
 {% tab title="Mac OS" %}
-Vá para `YOURDISK:/users/USER/~Library/Application Support` e delete a pasta `PreMiD`
+Go to `YOURDISK:/users/USER/~Library/Application Support` and delete the folder `PreMiD`
 {% endtab %}
 {% endtabs %}
 
-Cite um membro da staff no nosso [servidor do Discord](https://discord.gg/WvfVZ8T) se nenhuma dessas etapas ajudaram.
+Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.
 
-## Isso não resolveu meu problema
+## That hasn't solved my problem
 
-Você pode tentar:
+You can either:
 
-* [Abrir uma issue](https://github.com/PreMiD/PreMiD/issues/new/choose) no [GitHub](https://github.com/PreMiD/PreMiD) \(em inglês\)
-* Fale com um membro da Staff no [\#support](https://discord.gg/WvfVZ8T) \(em inglês\)
+* [Open a issue](https://github.com/PreMiD/PreMiD/issues/new/choose) on [GitHub](https://github.com/PreMiD/PreMiD)
+* Ask a staff member in [\#support](https://discord.gg/WvfVZ8T)
 
   
 
