@@ -2,12 +2,12 @@
 
 ## Table of contents
 
-* About
+* Tietoa
   * [Mikä on RPC?](about/whats-rpc.md)
   * [Mikä on PreMiD?](about/whats-premid/)
     * [Esimerkkikuvia](about/whats-premid/example-pictures.md)
 * Asennus
-  * [Extension](installation/extension.md)
+  * [Selainlaajennus](installation/extension.md)
   * [Sovellus](installation/application.md)
 * [Contributing](contributing/contributing.md)
 * [Ongelmanratkaisu](troubleshooting/troubleshooting.md)
