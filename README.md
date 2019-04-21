@@ -1,6 +1,6 @@
-# Home
+# Koti
 
-## Table of contents
+## Sisältötaulu
 
 * Tietoa
   * [Mikä on RPC?](about/whats-rpc.md)
