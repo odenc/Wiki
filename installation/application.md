@@ -1,10 +1,10 @@
-# Application
+# Sovellus
 
 {% hint style="warning" %}
- You have to install the extenstion **and** the application to get it working correctly!
+ Sinun täytyy asentaa laajennus **ja** sovellus saadaksesi PreMiDin toimimaan!
 {% endhint %}
 
-### Application
+### Sovellus
 
 Installing the application is very important since the extension can't do anything on its own and needs the application to activate rich presence on your profile! So, just follow these steps and install it.
 
