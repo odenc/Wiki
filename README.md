@@ -3,16 +3,16 @@
 ## Table of contents
 
 * About
-  * [What's RPC?](about/whats-rpc.md)
-  * [What's PreMiD?](about/whats-premid/)
-    * [Example pictures](about/whats-premid/example-pictures.md)
-* Installation
+  * [Mikä on RPC?](about/whats-rpc.md)
+  * [Mikä on PreMiD?](about/whats-premid/)
+    * [Esimerkkikuvia](about/whats-premid/example-pictures.md)
+* Asennus
   * [Extension](installation/extension.md)
-  * [Application](installation/application.md)
+  * [Sovellus](installation/application.md)
 * [Contributing](contributing/contributing.md)
-* [Troubleshooting](troubleshooting/troubleshooting.md)
-* Support
-  * [Operating systems](support/operating-systems/)
-    * [Additional Browsers](support/operating-systems/additional-browsers.md)
-  * [Services](support/services.md)
+* [Ongelmanratkaisu](troubleshooting/troubleshooting.md)
+* Tuki
+  * [Käyttöjärjestelmät](support/operating-systems/)
+    * [Muut selaimet](support/operating-systems/additional-browsers.md)
+  * [Palvelut](support/services.md)
 
