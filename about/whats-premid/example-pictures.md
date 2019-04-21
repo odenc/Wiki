@@ -1,13 +1,13 @@
-# Example pictures
+# Esimerkkikuvia
 
-#### Examples
+#### Esimerkkejä
 
-This is what you listen on YouTube:
+Tämä on mitä kuuntelet YouTubessa:
 
 ![YouTube](../../.gitbook/assets/yt_example.PNG)
 
   
-And this is what happens on your profile when PreMiD is running and able to get information from your browser: 
+Ja tämä on mitä tapahtuu profiilillesi kun PreMiD on päällä ja se saa tietoa selaimeltasi: 
 
 ![Discord RPC](../../.gitbook/assets/discord_rpc_example2.PNG)
 
