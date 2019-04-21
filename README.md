@@ -1,6 +1,6 @@
 # Koti
 
-## Sisältötaulu
+## Sisältötaulukko
 
 * Tietoa
   * [Mikä on RPC?](about/whats-rpc.md)
