@@ -1,10 +1,10 @@
-# What's PreMiD?
+# Mikä on PreMiD?
 
-#### What is PreMiD?
+#### Mikä on PreMiD?
 
 {% page-ref page="../../features.md" %}
 
-#### How does PreMiD work?
+#### Miten PreMiD toimii?
 
-Once you installed both extension and the app, they are always contacting with each other and are in touch at any time. For example, when you start watching/listening something on YouTube, YouTube Music, Netflix or other [supported services](../../support/services.md), the browser extension sends the information of video/song to the PreMiD Desktop client and PreMiD processes it, after that PreMiD sends the information with the correct way to Discord and Discord automatically sets your status. Well, all of these happens in 0.1 second so you don't have to worry about it.
+Kun olet asentanut PreMiD-sovelluksen ja selainlaajennuksen, ne ovat aina yhteydessä toisiinsa. Esimerkiksi kun alat katsomaan/kuuntelemaan jotain YouTubesta, YouTube Musicista, Netflixistä tai muusta [tuetut palvelut](../../support/services.md), selainlaajennus lähettää tiedon videosta/musiikista PreMiD-sovellukselle ja PreMiD käsittelee sen, jonka jälkeen PreMiD lähettää tiedon Discordille muodossa jonka Discord ymmärtää. Tämän jälkeen Discord siirtää tiedon profiiliisi. Kaikki tämä tapahtuu alle 0,1 sekunnissa, joten sinun ei tarvitse huolehtia siitä.
 
