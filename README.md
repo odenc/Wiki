@@ -9,7 +9,7 @@
 * Asennus
   * [Selainlaajennus](installation/extension.md)
   * [Sovellus](installation/application.md)
-* [Contributing](contributing/contributing.md)
+* [Avustus](contributing/contributing.md)
 * [Ongelmanratkaisu](troubleshooting/troubleshooting.md)
 * Tuki
   * [Käyttöjärjestelmät](support/operating-systems/)
